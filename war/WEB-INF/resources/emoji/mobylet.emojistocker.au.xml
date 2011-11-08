@@ -1,0 +1,3238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<emojipool carrier="AU">
+   <emoji name="！" code="0xE901">
+       <relation carrier="DOCOMO">0xE737</relation>
+       <relation carrier="SOFTBANK">0xE252</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="！２" code="0xE902">
+       <relation carrier="DOCOMO">0xE702</relation>
+       <relation carrier="SOFTBANK">0xE021</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="？" code="0xE903">
+       <relation carrier="DOCOMO">？</relation>
+       <relation carrier="SOFTBANK">0xE020</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="？２" code="0xE904">
+       <relation carrier="DOCOMO">0xE6E1</relation>
+       <relation carrier="SOFTBANK">[Q]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="左向き三角１" code="0xE905">
+       <relation carrier="DOCOMO">＜</relation>
+       <relation carrier="SOFTBANK">0xE23B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="右向き三角１" code="0xE906">
+       <relation carrier="DOCOMO">＞</relation>
+       <relation carrier="SOFTBANK">0xE23A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="左向き三角２" code="0xE907">
+       <relation carrier="DOCOMO">＜＜</relation>
+       <relation carrier="SOFTBANK">0xE23D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="右向き三角２" code="0xE908">
+       <relation carrier="DOCOMO">＞＞</relation>
+       <relation carrier="SOFTBANK">0xE23C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="小四角１" code="0xE909">
+       <relation carrier="DOCOMO">■</relation>
+       <relation carrier="SOFTBANK">0xE21B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="小四角２" code="0xE90A">
+       <relation carrier="DOCOMO">■</relation>
+       <relation carrier="SOFTBANK">0xE21A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="インフォメーションシンボル" code="0xE90B">
+       <relation carrier="DOCOMO">[i]</relation>
+       <relation carrier="SOFTBANK">[i]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ワイングラス" code="0xE90C">
+       <relation carrier="DOCOMO">0xE756</relation>
+       <relation carrier="SOFTBANK">0xE044</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="スピーカ" code="0xE90D">
+       <relation carrier="DOCOMO">[スピーカ]</relation>
+       <relation carrier="SOFTBANK">0xE141</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ドル" code="0xE90E">
+       <relation carrier="DOCOMO">0xE715</relation>
+       <relation carrier="SOFTBANK">0xE12F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="月１" code="0xE90F">
+       <relation carrier="DOCOMO">0xE69F</relation>
+       <relation carrier="SOFTBANK">0xE04C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="いなずま" code="0xE910">
+       <relation carrier="DOCOMO">0xE642</relation>
+       <relation carrier="SOFTBANK">0xE13D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="中四角１" code="0xE911">
+       <relation carrier="DOCOMO">■</relation>
+       <relation carrier="SOFTBANK">0xE21B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="中四角２" code="0xE912">
+       <relation carrier="DOCOMO">■</relation>
+       <relation carrier="SOFTBANK">0xE21A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="小菱形１" code="0xE913">
+       <relation carrier="DOCOMO">◆</relation>
+       <relation carrier="SOFTBANK">0xE21B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="小菱形２" code="0xE914">
+       <relation carrier="DOCOMO">◆</relation>
+       <relation carrier="SOFTBANK">0xE21B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="大四角１" code="0xE915">
+       <relation carrier="DOCOMO">■</relation>
+       <relation carrier="SOFTBANK">0xE21B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="大四角２" code="0xE916">
+       <relation carrier="DOCOMO">■</relation>
+       <relation carrier="SOFTBANK">0xE21A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="小丸１" code="0xE917">
+       <relation carrier="DOCOMO">●</relation>
+       <relation carrier="SOFTBANK">0xE219</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="小丸2" code="0xE918">
+       <relation carrier="DOCOMO">●</relation>
+       <relation carrier="SOFTBANK">0xE219</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="腕時計" code="0xE919">
+       <relation carrier="DOCOMO">0xE71F</relation>
+       <relation carrier="SOFTBANK">[腕時計]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="プラス" code="0xE91A">
+       <relation carrier="DOCOMO">＋</relation>
+       <relation carrier="SOFTBANK">＋</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="マイナス" code="0xE91B">
+       <relation carrier="DOCOMO">－</relation>
+       <relation carrier="SOFTBANK">－</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="星１" code="0xE91C">
+       <relation carrier="DOCOMO">＊</relation>
+       <relation carrier="SOFTBANK">＊</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="上矢印１" code="0xE91D">
+       <relation carrier="DOCOMO">↑</relation>
+       <relation carrier="SOFTBANK">0xE232</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="下矢印１" code="0xE91E">
+       <relation carrier="DOCOMO">↓</relation>
+       <relation carrier="SOFTBANK">0xE233</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="丸に斜め線" code="0xE91F">
+       <relation carrier="DOCOMO">0xE738</relation>
+       <relation carrier="SOFTBANK">[禁止]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="下三角１" code="0xE920">
+       <relation carrier="DOCOMO">▼</relation>
+       <relation carrier="SOFTBANK">▼</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="上三角１" code="0xE921">
+       <relation carrier="DOCOMO">▲</relation>
+       <relation carrier="SOFTBANK">▲</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="下三角２" code="0xE922">
+       <relation carrier="DOCOMO">▼</relation>
+       <relation carrier="SOFTBANK">▼</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="上三角２" code="0xE923">
+       <relation carrier="DOCOMO">▲</relation>
+       <relation carrier="SOFTBANK">▲</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="大菱形１" code="0xE924">
+       <relation carrier="DOCOMO">◆</relation>
+       <relation carrier="SOFTBANK">0xE21B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="大菱形２" code="0xE925">
+       <relation carrier="DOCOMO">◆</relation>
+       <relation carrier="SOFTBANK">0xE21B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="特大四角１" code="0xE926">
+       <relation carrier="DOCOMO">■</relation>
+       <relation carrier="SOFTBANK">0xE21B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="特大四角２" code="0xE927">
+       <relation carrier="DOCOMO">■</relation>
+       <relation carrier="SOFTBANK">0xE21A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="大丸１" code="0xE928">
+       <relation carrier="DOCOMO">●</relation>
+       <relation carrier="SOFTBANK">0xE219</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="大丸２" code="0xE929">
+       <relation carrier="DOCOMO">●</relation>
+       <relation carrier="SOFTBANK">0xE219</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="上矢印２" code="0xE92A">
+       <relation carrier="DOCOMO">0xE697</relation>
+       <relation carrier="SOFTBANK">0xE237</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="下矢印２" code="0xE92B">
+       <relation carrier="DOCOMO">0xE696</relation>
+       <relation carrier="SOFTBANK">0xE238</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="太陽" code="0xE92C">
+       <relation carrier="DOCOMO">0xE63E</relation>
+       <relation carrier="SOFTBANK">0xE04A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="野球ボール" code="0xE92D">
+       <relation carrier="DOCOMO">0xE653</relation>
+       <relation carrier="SOFTBANK">0xE016</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="時計" code="0xE92E">
+       <relation carrier="DOCOMO">0xE6BA</relation>
+       <relation carrier="SOFTBANK">0xE02E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="月２（顔つき）" code="0xE92F">
+       <relation carrier="DOCOMO">0xE69F</relation>
+       <relation carrier="SOFTBANK">0xE04C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ベル" code="0xE930">
+       <relation carrier="DOCOMO">0xE713</relation>
+       <relation carrier="SOFTBANK">0xE325</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="プッシュピン（画鋲）" code="0xE931">
+       <relation carrier="DOCOMO">φ</relation>
+       <relation carrier="SOFTBANK">φ</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="小顔" code="0xE932">
+       <relation carrier="DOCOMO">0xE6F0</relation>
+       <relation carrier="SOFTBANK">0xE002</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ハート" code="0xE933">
+       <relation carrier="DOCOMO">0xE6EC</relation>
+       <relation carrier="SOFTBANK">0xE022</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="マティーニ（カクテルグラス）" code="0xE934">
+       <relation carrier="DOCOMO">0xE671</relation>
+       <relation carrier="SOFTBANK">0xE044</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="四つ葉" code="0xE935">
+       <relation carrier="DOCOMO">0xE741</relation>
+       <relation carrier="SOFTBANK">0xE110</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="トレードマーク（TM）" code="0xE936">
+       <relation carrier="DOCOMO">0xE732</relation>
+       <relation carrier="SOFTBANK">0xE537</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="かける" code="0xE937">
+       <relation carrier="DOCOMO">×</relation>
+       <relation carrier="SOFTBANK">0xE333</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="文書１" code="0xE938">
+       <relation carrier="DOCOMO">0xE689</relation>
+       <relation carrier="SOFTBANK">0xE301</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="砂時計１" code="0xE939">
+       <relation carrier="DOCOMO">0xE71C</relation>
+       <relation carrier="SOFTBANK">[砂時計]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="砂時計２" code="0xE93A">
+       <relation carrier="DOCOMO">0xE71C</relation>
+       <relation carrier="SOFTBANK">[砂時計]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="フロッピーディスク１" code="0xE93B">
+       <relation carrier="DOCOMO">[フロッピー]</relation>
+       <relation carrier="SOFTBANK">0xE316</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="雪の結晶" code="0xE93C">
+       <relation carrier="DOCOMO">[雪結晶]</relation>
+       <relation carrier="SOFTBANK">[雪結晶]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="バツ１" code="0xE93D">
+       <relation carrier="DOCOMO">×</relation>
+       <relation carrier="SOFTBANK">0xE333</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="バツ２" code="0xE93E">
+       <relation carrier="DOCOMO">×</relation>
+       <relation carrier="SOFTBANK">0xE333</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="右矢印１" code="0xE93F">
+       <relation carrier="DOCOMO">→</relation>
+       <relation carrier="SOFTBANK">0xE234</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="左矢印１" code="0xE940">
+       <relation carrier="DOCOMO">←</relation>
+       <relation carrier="SOFTBANK">0xE235</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="マグカップ" code="0xE941">
+       <relation carrier="DOCOMO">0xE672</relation>
+       <relation carrier="SOFTBANK">0xE047</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="割る" code="0xE942">
+       <relation carrier="DOCOMO">÷</relation>
+       <relation carrier="SOFTBANK">÷</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="カレンダー" code="0xE943">
+       <relation carrier="DOCOMO">[カレンダー]</relation>
+       <relation carrier="SOFTBANK">[カレンダー]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="スマイルフェイス" code="0xE944">
+       <relation carrier="DOCOMO">0xE6F0</relation>
+       <relation carrier="SOFTBANK">0xE056</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="星２" code="0xE945">
+       <relation carrier="DOCOMO">☆</relation>
+       <relation carrier="SOFTBANK">0xE32F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="右矢印２" code="0xE946">
+       <relation carrier="DOCOMO">0xE678</relation>
+       <relation carrier="SOFTBANK">0xE236</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="左矢印２" code="0xE947">
+       <relation carrier="DOCOMO">0xE6A5</relation>
+       <relation carrier="SOFTBANK">0xE239</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ジュエリー" code="0xE948">
+       <relation carrier="DOCOMO">0xE71B</relation>
+       <relation carrier="SOFTBANK">0xE034</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="チェックマーク１" code="0xE949">
+       <relation carrier="DOCOMO">[チェックマーク]</relation>
+       <relation carrier="SOFTBANK">[チェックマーク]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="犬（プードル）" code="0xE94A">
+       <relation carrier="DOCOMO">0xE6A1</relation>
+       <relation carrier="SOFTBANK">0xE052</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="星３" code="0xE94B">
+       <relation carrier="DOCOMO">☆彡</relation>
+       <relation carrier="SOFTBANK">☆彡</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="スパーク" code="0xE94C">
+       <relation carrier="DOCOMO">0xE6FA</relation>
+       <relation carrier="SOFTBANK">0xE32E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="電球" code="0xE94D">
+       <relation carrier="DOCOMO">0xE6FB</relation>
+       <relation carrier="SOFTBANK">0xE10F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="鳥" code="0xE94E">
+       <relation carrier="DOCOMO">0xE74F</relation>
+       <relation carrier="SOFTBANK">0xE523</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="フォルダ１（閉）" code="0xE94F">
+       <relation carrier="DOCOMO">[フォルダ]</relation>
+       <relation carrier="SOFTBANK">[フォルダ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="顔１" code="0xE950">
+       <relation carrier="DOCOMO">0xE6F0</relation>
+       <relation carrier="SOFTBANK">0xE001</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="コピーライトマーク" code="0xE951">
+       <relation carrier="DOCOMO">0xE731</relation>
+       <relation carrier="SOFTBANK">0xE24E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="レジスタードマーク" code="0xE952">
+       <relation carrier="DOCOMO">0xE736</relation>
+       <relation carrier="SOFTBANK">0xE24F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ブリーフケース(ハンドバック）" code="0xE953">
+       <relation carrier="DOCOMO">0xE682</relation>
+       <relation carrier="SOFTBANK">0xE323</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="フォルダ２（開）" code="0xE954">
+       <relation carrier="DOCOMO">[フォルダ]</relation>
+       <relation carrier="SOFTBANK">[フォルダ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="電話１（プッシュホン）" code="0xE955">
+       <relation carrier="DOCOMO">0xE687</relation>
+       <relation carrier="SOFTBANK">0xE009</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="吹き出しコメント" code="0xE956">
+       <relation carrier="DOCOMO">[フキダシ]</relation>
+       <relation carrier="SOFTBANK">[フキダシ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="クレジットカード" code="0xE957">
+       <relation carrier="DOCOMO">[カード]</relation>
+       <relation carrier="SOFTBANK">[カード]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="上三角３" code="0xE958">
+       <relation carrier="DOCOMO">▲</relation>
+       <relation carrier="SOFTBANK">▲</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="下三角３" code="0xE959">
+       <relation carrier="DOCOMO">▼</relation>
+       <relation carrier="SOFTBANK">▼</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ＵＳＡ" code="0xE95A">
+       <relation carrier="DOCOMO">[USA]</relation>
+       <relation carrier="SOFTBANK">0xE50C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ノート３" code="0xE95B">
+       <relation carrier="DOCOMO">0xE683</relation>
+       <relation carrier="SOFTBANK">0xE148</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="クリップボード" code="0xE95C">
+       <relation carrier="DOCOMO">0xE689</relation>
+       <relation carrier="SOFTBANK">0xE301</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="カップ" code="0xE95D">
+       <relation carrier="DOCOMO">0xE670</relation>
+       <relation carrier="SOFTBANK">0xE045</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="カメラ" code="0xE95E">
+       <relation carrier="DOCOMO">0xE681</relation>
+       <relation carrier="SOFTBANK">0xE008</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="雨" code="0xE95F">
+       <relation carrier="DOCOMO">0xE640</relation>
+       <relation carrier="SOFTBANK">0xE04B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="フットボール" code="0xE960">
+       <relation carrier="DOCOMO">[フットボール]</relation>
+       <relation carrier="SOFTBANK">0xE42B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="本１" code="0xE961">
+       <relation carrier="DOCOMO">0xE683</relation>
+       <relation carrier="SOFTBANK">0xE148</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="立ち入り禁止" code="0xE962">
+       <relation carrier="DOCOMO">0xE72F</relation>
+       <relation carrier="SOFTBANK">0xE137</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="信号" code="0xE963">
+       <relation carrier="DOCOMO">0xE66D</relation>
+       <relation carrier="SOFTBANK">0xE14E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="本２" code="0xE964">
+       <relation carrier="DOCOMO">0xE683</relation>
+       <relation carrier="SOFTBANK">0xE148</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="本３" code="0xE965">
+       <relation carrier="DOCOMO">0xE683</relation>
+       <relation carrier="SOFTBANK">0xE148</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="本４" code="0xE966">
+       <relation carrier="DOCOMO">0xE683</relation>
+       <relation carrier="SOFTBANK">0xE148</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="文書２" code="0xE967">
+       <relation carrier="DOCOMO">0xE689</relation>
+       <relation carrier="SOFTBANK">0xE301</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="はさみ" code="0xE968">
+       <relation carrier="DOCOMO">0xE675</relation>
+       <relation carrier="SOFTBANK">0xE313</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ひめくりカレンダー" code="0xE969">
+       <relation carrier="DOCOMO">[カレンダー]</relation>
+       <relation carrier="SOFTBANK">[カレンダー]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="チケット・キップ" code="0xE96A">
+       <relation carrier="DOCOMO">0xE67E</relation>
+       <relation carrier="SOFTBANK">0xE125</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="くもり" code="0xE96B">
+       <relation carrier="DOCOMO">0xE63F</relation>
+       <relation carrier="SOFTBANK">0xE049</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="封筒" code="0xE96C">
+       <relation carrier="DOCOMO">0xE6D3</relation>
+       <relation carrier="SOFTBANK">0xE103</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="小切手（CHECK）" code="0xE96D">
+       <relation carrier="DOCOMO">0xE6D6</relation>
+       <relation carrier="SOFTBANK">￥</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ビデオカメラ" code="0xE96E">
+       <relation carrier="DOCOMO">0xE677</relation>
+       <relation carrier="SOFTBANK">0xE03D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ハンディカム" code="0xE96F">
+       <relation carrier="DOCOMO">0xE677</relation>
+       <relation carrier="SOFTBANK">0xE03D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="家" code="0xE970">
+       <relation carrier="DOCOMO">0xE663</relation>
+       <relation carrier="SOFTBANK">0xE036</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="花" code="0xE971">
+       <relation carrier="DOCOMO">0xE743</relation>
+       <relation carrier="SOFTBANK">0xE304</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ナイフ" code="0xE972">
+       <relation carrier="DOCOMO">[包丁]</relation>
+       <relation carrier="SOFTBANK">[包丁]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ビデオテープ" code="0xE973">
+       <relation carrier="DOCOMO">[ビデオ]</relation>
+       <relation carrier="SOFTBANK">0xE129</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="めがね" code="0xE974">
+       <relation carrier="DOCOMO">0xE69A</relation>
+       <relation carrier="SOFTBANK">[メガネ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="回り矢印１" code="0xE975">
+       <relation carrier="DOCOMO">└→</relation>
+       <relation carrier="SOFTBANK">└→</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="回り矢印２" code="0xE976">
+       <relation carrier="DOCOMO">0xE6DA</relation>
+       <relation carrier="SOFTBANK">←┘</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="むしめがね" code="0xE977">
+       <relation carrier="DOCOMO">0xE6DC</relation>
+       <relation carrier="SOFTBANK">0xE114</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="鍵" code="0xE978">
+       <relation carrier="DOCOMO">0xE6D9</relation>
+       <relation carrier="SOFTBANK">0xE03F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ノート１" code="0xE979">
+       <relation carrier="DOCOMO">0xE683</relation>
+       <relation carrier="SOFTBANK">0xE148</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ノート２（開）" code="0xE97A">
+       <relation carrier="DOCOMO">0xE683</relation>
+       <relation carrier="SOFTBANK">0xE148</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ボルト＆ナット" code="0xE97B">
+       <relation carrier="DOCOMO">[ネジ]</relation>
+       <relation carrier="SOFTBANK">[ネジ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="くつ" code="0xE97C">
+       <relation carrier="DOCOMO">0xE674</relation>
+       <relation carrier="SOFTBANK">0xE13E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="車" code="0xE97D">
+       <relation carrier="DOCOMO">0xE65E</relation>
+       <relation carrier="SOFTBANK">0xE01B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="フロッピー２" code="0xE97E">
+       <relation carrier="DOCOMO">[フロッピー]</relation>
+       <relation carrier="SOFTBANK">0xE316</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="チャート（棒グラフ）" code="0xE97F">
+       <relation carrier="DOCOMO">[グラフ]</relation>
+       <relation carrier="SOFTBANK">0xE14A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="グラフ１（折れ線グラフ）" code="0xE980">
+       <relation carrier="DOCOMO">[グラフ]</relation>
+       <relation carrier="SOFTBANK">0xE14A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="メールボックス" code="0xE981">
+       <relation carrier="DOCOMO">0xE665</relation>
+       <relation carrier="SOFTBANK">0xE101</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="懐中電灯" code="0xE982">
+       <relation carrier="DOCOMO">0xE6FB</relation>
+       <relation carrier="SOFTBANK">[懐中電灯]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="Roldex" code="0xE983">
+       <relation carrier="DOCOMO">0xE683</relation>
+       <relation carrier="SOFTBANK">0xE148</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="チェックマーク２" code="0xE984">
+       <relation carrier="DOCOMO">[チェックマーク]</relation>
+       <relation carrier="SOFTBANK">[チェックマーク]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="はっぱ" code="0xE985">
+       <relation carrier="DOCOMO">0xE747</relation>
+       <relation carrier="SOFTBANK">0xE118</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="猟犬" code="0xE986">
+       <relation carrier="DOCOMO">0xE6A1</relation>
+       <relation carrier="SOFTBANK">0xE052</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="電池" code="0xE987">
+       <relation carrier="DOCOMO">[電池]</relation>
+       <relation carrier="SOFTBANK">[電池]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="スクロール" code="0xE988">
+       <relation carrier="DOCOMO">0xE70A</relation>
+       <relation carrier="SOFTBANK">[スクロール]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="がびょう" code="0xE989">
+       <relation carrier="DOCOMO">[画びょう]</relation>
+       <relation carrier="SOFTBANK">[画びょう]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="錠前" code="0xE98A">
+       <relation carrier="DOCOMO">0xE6D9</relation>
+       <relation carrier="SOFTBANK">0xE144</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ドル札" code="0xE98B">
+       <relation carrier="DOCOMO">0xE715</relation>
+       <relation carrier="SOFTBANK">0xE12F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="指差し確認左" code="0xE98C">
+       <relation carrier="DOCOMO">←</relation>
+       <relation carrier="SOFTBANK">0xE230</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="指差し確認右" code="0xE98D">
+       <relation carrier="DOCOMO">→</relation>
+       <relation carrier="SOFTBANK">0xE231</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="台帳" code="0xE98E">
+       <relation carrier="DOCOMO">0xE683</relation>
+       <relation carrier="SOFTBANK">0xE148</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="クリップ" code="0xE98F">
+       <relation carrier="DOCOMO">0xE730</relation>
+       <relation carrier="SOFTBANK">[クリップ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="プレゼント" code="0xE990">
+       <relation carrier="DOCOMO">0xE685</relation>
+       <relation carrier="SOFTBANK">0xE112</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="名札" code="0xE991">
+       <relation carrier="DOCOMO">[名札]</relation>
+       <relation carrier="SOFTBANK">[名札]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ゴハン１" code="0xE992">
+       <relation carrier="DOCOMO">0xE66F</relation>
+       <relation carrier="SOFTBANK">0xE043</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="複数本" code="0xE993">
+       <relation carrier="DOCOMO">0xE683</relation>
+       <relation carrier="SOFTBANK">0xE148</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="トラック" code="0xE994">
+       <relation carrier="DOCOMO">[トラック]</relation>
+       <relation carrier="SOFTBANK">0xE42F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="エンピツ" code="0xE995">
+       <relation carrier="DOCOMO">0xE719</relation>
+       <relation carrier="SOFTBANK">0xE301</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ロゴ（ＰＤＣ社）" code="0xE996">
+       <relation carrier="DOCOMO">[PDC]</relation>
+       <relation carrier="SOFTBANK">[PDC]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="封筒２" code="0xE997">
+       <relation carrier="DOCOMO">0xE6CF</relation>
+       <relation carrier="SOFTBANK">0xE103</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="レンチ" code="0xE998">
+       <relation carrier="DOCOMO">0xE718</relation>
+       <relation carrier="SOFTBANK">[レンチ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="送信ＢＯＸ" code="0xE999">
+       <relation carrier="DOCOMO">[送信BOX]</relation>
+       <relation carrier="SOFTBANK">[送信BOX]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="受信ＢＯＸ" code="0xE99A">
+       <relation carrier="DOCOMO">[受信BOX]</relation>
+       <relation carrier="SOFTBANK">[受信BOX]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="電話２" code="0xE99B">
+       <relation carrier="DOCOMO">0xE687</relation>
+       <relation carrier="SOFTBANK">0xE009</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="工場・建物" code="0xE99C">
+       <relation carrier="DOCOMO">0xE664</relation>
+       <relation carrier="SOFTBANK">0xE038</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="定規１" code="0xE99D">
+       <relation carrier="DOCOMO">[定規]</relation>
+       <relation carrier="SOFTBANK">[定規]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="定規２" code="0xE99E">
+       <relation carrier="DOCOMO">[三角定規]</relation>
+       <relation carrier="SOFTBANK">[三角定規]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="グラフ２" code="0xE99F">
+       <relation carrier="DOCOMO">[グラフ]</relation>
+       <relation carrier="SOFTBANK">[グラフ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="食事２" code="0xE9A0">
+       <relation carrier="DOCOMO">[肉]</relation>
+       <relation carrier="SOFTBANK">[肉]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="電話３" code="0xE9A1">
+       <relation carrier="DOCOMO">0xE688</relation>
+       <relation carrier="SOFTBANK">0xE00A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="コンセント" code="0xE9A2">
+       <relation carrier="DOCOMO">[コンセント]</relation>
+       <relation carrier="SOFTBANK">[コンセント]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="家族" code="0xE9A3">
+       <relation carrier="DOCOMO">[家族]</relation>
+       <relation carrier="SOFTBANK">[家族]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="リンク" code="0xE9A4">
+       <relation carrier="DOCOMO">[リンク]</relation>
+       <relation carrier="SOFTBANK">[リンク]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="パッケージ" code="0xE9A5">
+       <relation carrier="DOCOMO">0xE685</relation>
+       <relation carrier="SOFTBANK">0xE112</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ＦＡＸ" code="0xE9A6">
+       <relation carrier="DOCOMO">0xE6D0</relation>
+       <relation carrier="SOFTBANK">0xE00B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ときどき曇り" code="0xE9A7">
+       <relation carrier="DOCOMO">0xE63F</relation>
+       <relation carrier="SOFTBANK">0xE049</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="飛行機" code="0xE9A8">
+       <relation carrier="DOCOMO">0xE662</relation>
+       <relation carrier="SOFTBANK">0xE01D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ボート(船）" code="0xE9A9">
+       <relation carrier="DOCOMO">0xE6A3</relation>
+       <relation carrier="SOFTBANK">0xE01C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="サイコロ" code="0xE9AA">
+       <relation carrier="DOCOMO">[サイコロ]</relation>
+       <relation carrier="SOFTBANK">[サイコロ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="新聞" code="0xE9AB">
+       <relation carrier="DOCOMO">[新聞]</relation>
+       <relation carrier="SOFTBANK">[新聞]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="電車" code="0xE9AC">
+       <relation carrier="DOCOMO">0xE65B</relation>
+       <relation carrier="SOFTBANK">0xE01E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="全部ブランク" code="0xE9AD">
+       <relation carrier="DOCOMO">  </relation>
+       <relation carrier="SOFTBANK">  </relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="半分ブランク" code="0xE9AE">
+       <relation carrier="DOCOMO"> </relation>
+       <relation carrier="SOFTBANK"> </relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="4分の１ブランク" code="0xE9AF">
+       <relation carrier="DOCOMO"> </relation>
+       <relation carrier="SOFTBANK"> </relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="喫煙" code="0xE9B0">
+       <relation carrier="DOCOMO">0xE67F</relation>
+       <relation carrier="SOFTBANK">0xE30E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="禁煙" code="0xE9B1">
+       <relation carrier="DOCOMO">0xE680</relation>
+       <relation carrier="SOFTBANK">0xE208</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="車椅子" code="0xE9B2">
+       <relation carrier="DOCOMO">0xE69B</relation>
+       <relation carrier="SOFTBANK">0xE20A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="若葉マーク" code="0xE9B3">
+       <relation carrier="DOCOMO">[若葉マーク]</relation>
+       <relation carrier="SOFTBANK">0xE209</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="四角数字１" code="0xE9B4">
+       <relation carrier="DOCOMO">0xE6E2</relation>
+       <relation carrier="SOFTBANK">0xE21C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="四角数字2" code="0xE9B5">
+       <relation carrier="DOCOMO">0xE6E3</relation>
+       <relation carrier="SOFTBANK">0xE21D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="四角数字3" code="0xE9B6">
+       <relation carrier="DOCOMO">0xE6E4</relation>
+       <relation carrier="SOFTBANK">0xE21E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="四角数字4" code="0xE9B7">
+       <relation carrier="DOCOMO">0xE6E5</relation>
+       <relation carrier="SOFTBANK">0xE21F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="四角数字5" code="0xE9B8">
+       <relation carrier="DOCOMO">0xE6E6</relation>
+       <relation carrier="SOFTBANK">0xE220</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="四角数字6" code="0xE9B9">
+       <relation carrier="DOCOMO">0xE6E7</relation>
+       <relation carrier="SOFTBANK">0xE221</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="四角数字7" code="0xE9BA">
+       <relation carrier="DOCOMO">0xE6E8</relation>
+       <relation carrier="SOFTBANK">0xE222</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="四角数字8" code="0xE9BB">
+       <relation carrier="DOCOMO">0xE6E9</relation>
+       <relation carrier="SOFTBANK">0xE223</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="四角数字9" code="0xE9BC">
+       <relation carrier="DOCOMO">0xE6EA</relation>
+       <relation carrier="SOFTBANK">0xE224</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="四角数字10" code="0xE9BD">
+       <relation carrier="DOCOMO">[10]</relation>
+       <relation carrier="SOFTBANK">[10]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="台風" code="0xE9BE">
+       <relation carrier="DOCOMO">0xE643</relation>
+       <relation carrier="SOFTBANK">0xE443</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ゆきだるま" code="0xE9BF">
+       <relation carrier="DOCOMO">0xE641</relation>
+       <relation carrier="SOFTBANK">0xE048</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="星座（おひつじ座）" code="0xE9C0">
+       <relation carrier="DOCOMO">0xE646</relation>
+       <relation carrier="SOFTBANK">0xE23F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="星座（おうし座）" code="0xE9C1">
+       <relation carrier="DOCOMO">0xE647</relation>
+       <relation carrier="SOFTBANK">0xE240</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="星座（双子座）" code="0xE9C2">
+       <relation carrier="DOCOMO">0xE648</relation>
+       <relation carrier="SOFTBANK">0xE241</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="星座（かに座）" code="0xE9C3">
+       <relation carrier="DOCOMO">0xE649</relation>
+       <relation carrier="SOFTBANK">0xE242</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="星座（しし座）" code="0xE9C4">
+       <relation carrier="DOCOMO">0xE64A</relation>
+       <relation carrier="SOFTBANK">0xE243</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="星座（おとめ座）" code="0xE9C5">
+       <relation carrier="DOCOMO">0xE64B</relation>
+       <relation carrier="SOFTBANK">0xE244</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="星座（天秤座）" code="0xE9C6">
+       <relation carrier="DOCOMO">0xE64C</relation>
+       <relation carrier="SOFTBANK">0xE245</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="星座（さそり座）" code="0xE9C7">
+       <relation carrier="DOCOMO">0xE64D</relation>
+       <relation carrier="SOFTBANK">0xE246</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="星座（いて座）" code="0xE9C8">
+       <relation carrier="DOCOMO">0xE64E</relation>
+       <relation carrier="SOFTBANK">0xE247</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="星座（やぎ座）" code="0xE9C9">
+       <relation carrier="DOCOMO">0xE64F</relation>
+       <relation carrier="SOFTBANK">0xE248</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="星座（水瓶座）" code="0xE9CA">
+       <relation carrier="DOCOMO">0xE650</relation>
+       <relation carrier="SOFTBANK">0xE249</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="星座（うお座）" code="0xE9CB">
+       <relation carrier="DOCOMO">0xE651</relation>
+       <relation carrier="SOFTBANK">0xE24A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="星座（へびつかい座）" code="0xE9CC">
+       <relation carrier="DOCOMO">[蛇使座]</relation>
+       <relation carrier="SOFTBANK">0xE24B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ＡＴＭ" code="0xE9CD">
+       <relation carrier="DOCOMO">0xE668</relation>
+       <relation carrier="SOFTBANK">0xE154</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="２４HOURS（コンビニ)" code="0xE9CE">
+       <relation carrier="DOCOMO">0xE66A</relation>
+       <relation carrier="SOFTBANK">0xE156</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="トイレ" code="0xE9CF">
+       <relation carrier="DOCOMO">0xE66E</relation>
+       <relation carrier="SOFTBANK">0xE151</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="パーキング" code="0xE9D0">
+       <relation carrier="DOCOMO">0xE66C</relation>
+       <relation carrier="SOFTBANK">0xE14F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="バス停" code="0xE9D1">
+       <relation carrier="DOCOMO">[バス停]</relation>
+       <relation carrier="SOFTBANK">0xE150</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ｱﾝﾃﾅ（位置情報ﾏｰｸ）" code="0xE9D2">
+       <relation carrier="DOCOMO">[アンテナ]</relation>
+       <relation carrier="SOFTBANK">0xE14B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="港（いかりマーク）" code="0xE9D3">
+       <relation carrier="DOCOMO">0xE661</relation>
+       <relation carrier="SOFTBANK">0xE202</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="銀行" code="0xE9D4">
+       <relation carrier="DOCOMO">0xE667</relation>
+       <relation carrier="SOFTBANK">0xE14D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ガススタンド" code="0xE9D5">
+       <relation carrier="DOCOMO">0xE66B</relation>
+       <relation carrier="SOFTBANK">0xE03A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="地図" code="0xE9D6">
+       <relation carrier="DOCOMO">[地図]</relation>
+       <relation carrier="SOFTBANK">[地図]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="自転車" code="0xE9D7">
+       <relation carrier="DOCOMO">0xE71D</relation>
+       <relation carrier="SOFTBANK">0xE136</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="バス" code="0xE9D8">
+       <relation carrier="DOCOMO">0xE660</relation>
+       <relation carrier="SOFTBANK">0xE159</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="新幹線" code="0xE9D9">
+       <relation carrier="DOCOMO">0xE65D</relation>
+       <relation carrier="SOFTBANK">0xE01F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="マラソン" code="0xE9DA">
+       <relation carrier="DOCOMO">0xE733</relation>
+       <relation carrier="SOFTBANK">0xE115</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="サッカー" code="0xE9DB">
+       <relation carrier="DOCOMO">0xE656</relation>
+       <relation carrier="SOFTBANK">0xE018</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="テニス" code="0xE9DC">
+       <relation carrier="DOCOMO">0xE655</relation>
+       <relation carrier="SOFTBANK">0xE015</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="スノーボード" code="0xE9DD">
+       <relation carrier="DOCOMO">0xE712</relation>
+       <relation carrier="SOFTBANK">[スノボ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="チェッカーフラグ" code="0xE9DE">
+       <relation carrier="DOCOMO">0xE659</relation>
+       <relation carrier="SOFTBANK">0xE132</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="遊園地" code="0xE9DF">
+       <relation carrier="DOCOMO">[観覧車]</relation>
+       <relation carrier="SOFTBANK">0xE124</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="温泉" code="0xE9E0">
+       <relation carrier="DOCOMO">0xE6F7</relation>
+       <relation carrier="SOFTBANK">0xE123</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="居酒屋（赤ちょうちん）" code="0xE9E1">
+       <relation carrier="DOCOMO">0xE74B</relation>
+       <relation carrier="SOFTBANK">0xE30B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="映画（かちんこ）" code="0xE9E2">
+       <relation carrier="DOCOMO">0xE6AC</relation>
+       <relation carrier="SOFTBANK">0xE324</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="夜の橋" code="0xE9E3">
+       <relation carrier="DOCOMO">0xE6B3</relation>
+       <relation carrier="SOFTBANK">0xE44B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="東京タワー" code="0xE9E4">
+       <relation carrier="DOCOMO">[東京タワー]</relation>
+       <relation carrier="SOFTBANK">0xE509</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="スロット（７７７）" code="0xE9E5">
+       <relation carrier="DOCOMO">777</relation>
+       <relation carrier="SOFTBANK">0xE133</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="くす玉（アタリのくす玉）" code="0xE9E6">
+       <relation carrier="DOCOMO">[オメデトウ]</relation>
+       <relation carrier="SOFTBANK">[オメデトウ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="当選弓矢" code="0xE9E7">
+       <relation carrier="DOCOMO">[的中]</relation>
+       <relation carrier="SOFTBANK">0xE130</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ゲームのコントローラ" code="0xE9E8">
+       <relation carrier="DOCOMO">0xE68B</relation>
+       <relation carrier="SOFTBANK">[ゲーム]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="賞金" code="0xE9E9">
+       <relation carrier="DOCOMO">0xE715</relation>
+       <relation carrier="SOFTBANK">0xE12F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="クリスマスツリー" code="0xE9EA">
+       <relation carrier="DOCOMO">0xE6A4</relation>
+       <relation carrier="SOFTBANK">0xE033</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="花見(さくら）" code="0xE9EB">
+       <relation carrier="DOCOMO">0xE748</relation>
+       <relation carrier="SOFTBANK">0xE030</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="お化け" code="0xE9EC">
+       <relation carrier="DOCOMO">[お化け]</relation>
+       <relation carrier="SOFTBANK">0xE11B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="旗（祝日・日の丸）" code="0xE9ED">
+       <relation carrier="DOCOMO">[日の丸]</relation>
+       <relation carrier="SOFTBANK">0xE50B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="スイカ" code="0xE9EE">
+       <relation carrier="DOCOMO">[スイカ]</relation>
+       <relation carrier="SOFTBANK">0xE348</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ケーキ" code="0xE9EF">
+       <relation carrier="DOCOMO">0xE74A</relation>
+       <relation carrier="SOFTBANK">0xE046</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="フライパン（目玉焼き）" code="0xE9F0">
+       <relation carrier="DOCOMO">[フライパン]</relation>
+       <relation carrier="SOFTBANK">0xE147</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="さくらんぼ" code="0xE9F1">
+       <relation carrier="DOCOMO">0xE742</relation>
+       <relation carrier="SOFTBANK">[さくらんぼ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ふぐ" code="0xE9F2">
+       <relation carrier="DOCOMO">0xE751</relation>
+       <relation carrier="SOFTBANK">0xE019</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="イチゴ" code="0xE9F3">
+       <relation carrier="DOCOMO">[イチゴ]</relation>
+       <relation carrier="SOFTBANK">0xE347</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="おにぎり" code="0xE9F4">
+       <relation carrier="DOCOMO">0xE749</relation>
+       <relation carrier="SOFTBANK">0xE342</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ハンバーガー" code="0xE9F5">
+       <relation carrier="DOCOMO">0xE673</relation>
+       <relation carrier="SOFTBANK">0xE120</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="くじら" code="0xE9F6">
+       <relation carrier="DOCOMO">[クジラ]</relation>
+       <relation carrier="SOFTBANK">0xE054</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="うさぎ" code="0xE9F7">
+       <relation carrier="DOCOMO">[ウサギ]</relation>
+       <relation carrier="SOFTBANK">0xE52C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="うま" code="0xE9F8">
+       <relation carrier="DOCOMO">0xE754</relation>
+       <relation carrier="SOFTBANK">0xE01A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="さる" code="0xE9F9">
+       <relation carrier="DOCOMO">[サル]</relation>
+       <relation carrier="SOFTBANK">0xE109</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="かえる" code="0xE9FA">
+       <relation carrier="DOCOMO">[カエル]</relation>
+       <relation carrier="SOFTBANK">0xE531</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="猫" code="0xE9FB">
+       <relation carrier="DOCOMO">0xE6A2</relation>
+       <relation carrier="SOFTBANK">0xE04F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ペンギン" code="0xE9FC">
+       <relation carrier="DOCOMO">0xE750</relation>
+       <relation carrier="SOFTBANK">0xE055</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="あり" code="0xE9FD">
+       <relation carrier="DOCOMO">[アリ]</relation>
+       <relation carrier="SOFTBANK">[アリ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ぶた" code="0xE9FE">
+       <relation carrier="DOCOMO">0xE755</relation>
+       <relation carrier="SOFTBANK">0xE10B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="やしのき" code="0xE9FF">
+       <relation carrier="DOCOMO">[ビーチ]</relation>
+       <relation carrier="SOFTBANK">0xE307</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ひまわり" code="0xEA00">
+       <relation carrier="DOCOMO">[ひまわり]</relation>
+       <relation carrier="SOFTBANK">0xE305</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="顔１（うれしいカオ）" code="0xEA01">
+       <relation carrier="DOCOMO">0xE6F0</relation>
+       <relation carrier="SOFTBANK">0xE057</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="顔２（おこったカオ）" code="0xEA02">
+       <relation carrier="DOCOMO">0xE6F1</relation>
+       <relation carrier="SOFTBANK">0xE059</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="顔３（かなしいカオ）" code="0xEA03">
+       <relation carrier="DOCOMO">0xE72D</relation>
+       <relation carrier="SOFTBANK">0xE411</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="顔４（つかれたカオ）" code="0xEA04">
+       <relation carrier="DOCOMO">0xE72B</relation>
+       <relation carrier="SOFTBANK">0xE403</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="眠い（ＺＺＺ…）" code="0xEA05">
+       <relation carrier="DOCOMO">0xE701</relation>
+       <relation carrier="SOFTBANK">0xE13C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="怒り（ムカッ）" code="0xEA06">
+       <relation carrier="DOCOMO">0xE6FC</relation>
+       <relation carrier="SOFTBANK">0xE334</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="雫（涙・汗）" code="0xEA07">
+       <relation carrier="DOCOMO">0xE707</relation>
+       <relation carrier="SOFTBANK">0xE331</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="からかう（あっかんべえ）" code="0xEA08">
+       <relation carrier="DOCOMO">0xE728</relation>
+       <relation carrier="SOFTBANK">0xE105</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ハート２（われている）" code="0xEA09">
+       <relation carrier="DOCOMO">0xE6EE</relation>
+       <relation carrier="SOFTBANK">0xE023</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ハート３（大きい＆小さい）" code="0xEA0A">
+       <relation carrier="DOCOMO">0xE6EF</relation>
+       <relation carrier="SOFTBANK">0xE327</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="スパーク２（キラリマーク）" code="0xEA0B">
+       <relation carrier="DOCOMO">0xE6FA</relation>
+       <relation carrier="SOFTBANK">0xE32E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="爆弾" code="0xEA0C">
+       <relation carrier="DOCOMO">0xE6FE</relation>
+       <relation carrier="SOFTBANK">0xE311</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="炎" code="0xEA0D">
+       <relation carrier="DOCOMO">[炎]</relation>
+       <relation carrier="SOFTBANK">0xE11D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="捜索（SOS）" code="0xEA0E">
+       <relation carrier="DOCOMO">[SOS]</relation>
+       <relation carrier="SOFTBANK">[SOS]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="力こぶ" code="0xEA0F">
+       <relation carrier="DOCOMO">[力こぶ]</relation>
+       <relation carrier="SOFTBANK">0xE14C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ハート５（矢がささっている）" code="0xEA10">
+       <relation carrier="DOCOMO">0xE68D</relation>
+       <relation carrier="SOFTBANK">0xE329</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="キスマーク" code="0xEA11">
+       <relation carrier="DOCOMO">0xE6F9</relation>
+       <relation carrier="SOFTBANK">0xE003</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="宇宙人" code="0xEA12">
+       <relation carrier="DOCOMO">[宇宙人]</relation>
+       <relation carrier="SOFTBANK">0xE10C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="なると" code="0xEA13">
+       <relation carrier="DOCOMO">0xE643</relation>
+       <relation carrier="SOFTBANK">[なると]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="足跡（犬）" code="0xEA14">
+       <relation carrier="DOCOMO">0xE698</relation>
+       <relation carrier="SOFTBANK">0xE536</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="悪魔" code="0xEA15">
+       <relation carrier="DOCOMO">[アクマ]</relation>
+       <relation carrier="SOFTBANK">0xE11A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="花丸" code="0xEA16">
+       <relation carrier="DOCOMO">[花丸]</relation>
+       <relation carrier="SOFTBANK">[花丸]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="丸秘" code="0xEA17">
+       <relation carrier="DOCOMO">0xE734</relation>
+       <relation carrier="SOFTBANK">0xE315</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="100点満点" code="0xEA18">
+       <relation carrier="DOCOMO">[100点]</relation>
+       <relation carrier="SOFTBANK">[100点]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="パンチ" code="0xEA19">
+       <relation carrier="DOCOMO">0xE6FD</relation>
+       <relation carrier="SOFTBANK">0xE00D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ダッシュ" code="0xEA1A">
+       <relation carrier="DOCOMO">0xE708</relation>
+       <relation carrier="SOFTBANK">0xE330</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ウンチマーク" code="0xEA1B">
+       <relation carrier="DOCOMO">[ウンチ]</relation>
+       <relation carrier="SOFTBANK">0xE05A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="人差し指サイン" code="0xEA1C">
+       <relation carrier="DOCOMO">[人差し指]</relation>
+       <relation carrier="SOFTBANK">0xE00F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="マル得" code="0xEA1D">
+       <relation carrier="DOCOMO">[得]</relation>
+       <relation carrier="SOFTBANK">0xE226</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="どくろ" code="0xEA1E">
+       <relation carrier="DOCOMO">[ドクロ]</relation>
+       <relation carrier="SOFTBANK">0xE11C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="おやゆびサイン" code="0xEA1F">
+       <relation carrier="DOCOMO">0xE727</relation>
+       <relation carrier="SOFTBANK">0xE00E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="テレビ" code="0xEA20">
+       <relation carrier="DOCOMO">0xE68A</relation>
+       <relation carrier="SOFTBANK">0xE12A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="マイク" code="0xEA21">
+       <relation carrier="DOCOMO">0xE676</relation>
+       <relation carrier="SOFTBANK">0xE03C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="財布" code="0xEA22">
+       <relation carrier="DOCOMO">0xE70F</relation>
+       <relation carrier="SOFTBANK">[財布]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="メロディ" code="0xEA23">
+       <relation carrier="DOCOMO">0xE6FF</relation>
+       <relation carrier="SOFTBANK">0xE326</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ギター（エレキ）" code="0xEA24">
+       <relation carrier="DOCOMO">[ギター]</relation>
+       <relation carrier="SOFTBANK">0xE041</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="バイオリン（クラッシック）" code="0xEA25">
+       <relation carrier="DOCOMO">[バイオリン]</relation>
+       <relation carrier="SOFTBANK">[バイオリン]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ヘッドフォン" code="0xEA26">
+       <relation carrier="DOCOMO">0xE67A</relation>
+       <relation carrier="SOFTBANK">0xE30A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="口紅" code="0xEA27">
+       <relation carrier="DOCOMO">0xE710</relation>
+       <relation carrier="SOFTBANK">0xE31C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="アクション（ピストル）" code="0xEA28">
+       <relation carrier="DOCOMO">[ピストル]</relation>
+       <relation carrier="SOFTBANK">0xE113</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="エステ" code="0xEA29">
+       <relation carrier="DOCOMO">[エステ]</relation>
+       <relation carrier="SOFTBANK">0xE31E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="EZマーク" code="0xEA2A">
+       <relation carrier="DOCOMO">[EZ]</relation>
+       <relation carrier="SOFTBANK">[EZ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="無料（ＦＲＥＥ）" code="0xEA2B">
+       <relation carrier="DOCOMO">0xE6D7</relation>
+       <relation carrier="SOFTBANK">[FREE]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="CD/DVD" code="0xEA2C">
+       <relation carrier="DOCOMO">0xE68C</relation>
+       <relation carrier="SOFTBANK">0xE126</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="婦人服" code="0xEA2D">
+       <relation carrier="DOCOMO">0xE70E</relation>
+       <relation carrier="SOFTBANK">0xE006</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="UFO" code="0xEA2E">
+       <relation carrier="DOCOMO">[UFO]</relation>
+       <relation carrier="SOFTBANK">0xE10C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="更新（ＵＰ！）" code="0xEA2F">
+       <relation carrier="DOCOMO">[UP!]</relation>
+       <relation carrier="SOFTBANK">0xE213</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="注射器（血）" code="0xEA30">
+       <relation carrier="DOCOMO">[注射]</relation>
+       <relation carrier="SOFTBANK">0xE13B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="霧" code="0xEA31">
+       <relation carrier="DOCOMO">0xE644</relation>
+       <relation carrier="SOFTBANK">[霧]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ゴルフ" code="0xEA32">
+       <relation carrier="DOCOMO">0xE654</relation>
+       <relation carrier="SOFTBANK">0xE014</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="バスケットボール" code="0xEA33">
+       <relation carrier="DOCOMO">0xE658</relation>
+       <relation carrier="SOFTBANK">0xE42A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ポケットベル" code="0xEA34">
+       <relation carrier="DOCOMO">0xE65A</relation>
+       <relation carrier="SOFTBANK">[ポケベル]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="アート" code="0xEA35">
+       <relation carrier="DOCOMO">0xE67B</relation>
+       <relation carrier="SOFTBANK">0xE502</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="演劇" code="0xEA36">
+       <relation carrier="DOCOMO">[演劇]</relation>
+       <relation carrier="SOFTBANK">0xE503</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="イベント" code="0xEA37">
+       <relation carrier="DOCOMO">0xE67D</relation>
+       <relation carrier="SOFTBANK">[イベント]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="リボン" code="0xEA38">
+       <relation carrier="DOCOMO">0xE684</relation>
+       <relation carrier="SOFTBANK">0xE314</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="バースデー" code="0xEA39">
+       <relation carrier="DOCOMO">0xE686</relation>
+       <relation carrier="SOFTBANK">0xE34B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="スペード" code="0xEA3A">
+       <relation carrier="DOCOMO">0xE68E</relation>
+       <relation carrier="SOFTBANK">0xE20E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ダイヤ" code="0xEA3B">
+       <relation carrier="DOCOMO">0xE68F</relation>
+       <relation carrier="SOFTBANK">0xE20D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="クラブ" code="0xEA3C">
+       <relation carrier="DOCOMO">0xE690</relation>
+       <relation carrier="SOFTBANK">0xE20F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="目" code="0xEA3D">
+       <relation carrier="DOCOMO">0xE691</relation>
+       <relation carrier="SOFTBANK">0xE419</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="耳" code="0xEA3E">
+       <relation carrier="DOCOMO">0xE692</relation>
+       <relation carrier="SOFTBANK">0xE41B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="手（チョキ）" code="0xEA3F">
+       <relation carrier="DOCOMO">0xE694</relation>
+       <relation carrier="SOFTBANK">0xE011</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="手（パー）" code="0xEA40">
+       <relation carrier="DOCOMO">0xE695</relation>
+       <relation carrier="SOFTBANK">0xE012</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="新月" code="0xEA41">
+       <relation carrier="DOCOMO">0xE69C</relation>
+       <relation carrier="SOFTBANK">●</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="やや欠け月" code="0xEA42">
+       <relation carrier="DOCOMO">0xE69D</relation>
+       <relation carrier="SOFTBANK">0xE04C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="半月" code="0xEA43">
+       <relation carrier="DOCOMO">0xE69E</relation>
+       <relation carrier="SOFTBANK">0xE04C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="クリア" code="0xEA44">
+       <relation carrier="DOCOMO">0xE6DB</relation>
+       <relation carrier="SOFTBANK">[CL]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="四角数字0" code="0xEA45">
+       <relation carrier="DOCOMO">0xE6EB</relation>
+       <relation carrier="SOFTBANK">0xE225</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="決定" code="0xEA46">
+       <relation carrier="DOCOMO">0xE70B</relation>
+       <relation carrier="SOFTBANK">0xE24D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ふらふら" code="0xEA47">
+       <relation carrier="DOCOMO">0xE6F4</relation>
+       <relation carrier="SOFTBANK">0xE407</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="かわいい" code="0xEA48">
+       <relation carrier="DOCOMO">0xE6ED</relation>
+       <relation carrier="SOFTBANK">0xE327</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="どんっ（衝撃）" code="0xEA49">
+       <relation carrier="DOCOMO">0xE705</relation>
+       <relation carrier="SOFTBANK">[ドンッ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="あせあせ（飛び散る汗）" code="0xEA4A">
+       <relation carrier="DOCOMO">0xE706</relation>
+       <relation carrier="SOFTBANK">0xE331</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="イージープラス" code="0xEA4B">
+       <relation carrier="DOCOMO">[ezplus]</relation>
+       <relation carrier="SOFTBANK">[ezplus]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="地球" code="0xEA4C">
+       <relation carrier="DOCOMO">[地球]</relation>
+       <relation carrier="SOFTBANK">[地球]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ラーメン" code="0xEA4D">
+       <relation carrier="DOCOMO">0xE74C</relation>
+       <relation carrier="SOFTBANK">0xE340</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="NEW" code="0xEA4E">
+       <relation carrier="DOCOMO">0xE6DD</relation>
+       <relation carrier="SOFTBANK">0xE212</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="紳士服" code="0xEA4F">
+       <relation carrier="DOCOMO">0xE70E</relation>
+       <relation carrier="SOFTBANK">0xE006</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="紳士靴" code="0xEA50">
+       <relation carrier="DOCOMO">0xE699</relation>
+       <relation carrier="SOFTBANK">0xE007</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="パソコン" code="0xEA51">
+       <relation carrier="DOCOMO">0xE716</relation>
+       <relation carrier="SOFTBANK">0xE00C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ラジオ" code="0xEA52">
+       <relation carrier="DOCOMO">[ラジオ]</relation>
+       <relation carrier="SOFTBANK">0xE128</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="バラ" code="0xEA53">
+       <relation carrier="DOCOMO">[バラ]</relation>
+       <relation carrier="SOFTBANK">0xE032</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="チャペル" code="0xEA54">
+       <relation carrier="DOCOMO">[教会]</relation>
+       <relation carrier="SOFTBANK">0xE037</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="地下鉄" code="0xEA55">
+       <relation carrier="DOCOMO">0xE65C</relation>
+       <relation carrier="SOFTBANK">0xE434</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="富士山" code="0xEA56">
+       <relation carrier="DOCOMO">0xE740</relation>
+       <relation carrier="SOFTBANK">0xE03B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="八分音符" code="0xEA57">
+       <relation carrier="DOCOMO">0xE6F6</relation>
+       <relation carrier="SOFTBANK">0xE03E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="天使" code="0xEA58">
+       <relation carrier="DOCOMO">[天使]</relation>
+       <relation carrier="SOFTBANK">0xE04E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="トラ" code="0xEA59">
+       <relation carrier="DOCOMO">[トラ]</relation>
+       <relation carrier="SOFTBANK">0xE050</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="くま" code="0xEA5A">
+       <relation carrier="DOCOMO">[クマ]</relation>
+       <relation carrier="SOFTBANK">0xE051</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ねずみ" code="0xEA5B">
+       <relation carrier="DOCOMO">[ネズミ]</relation>
+       <relation carrier="SOFTBANK">0xE053</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ウインク" code="0xEA5C">
+       <relation carrier="DOCOMO">0xE729</relation>
+       <relation carrier="SOFTBANK">0xE405</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="目がハート" code="0xEA5D">
+       <relation carrier="DOCOMO">0xE726</relation>
+       <relation carrier="SOFTBANK">0xE106</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ショッキング" code="0xEA5E">
+       <relation carrier="DOCOMO">0xE757</relation>
+       <relation carrier="SOFTBANK">0xE410</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="困り" code="0xEA5F">
+       <relation carrier="DOCOMO">0xE723</relation>
+       <relation carrier="SOFTBANK">0xE108</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="たこ" code="0xEA60">
+       <relation carrier="DOCOMO">[タコ]</relation>
+       <relation carrier="SOFTBANK">0xE10A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ロケット" code="0xEA61">
+       <relation carrier="DOCOMO">[ロケット]</relation>
+       <relation carrier="SOFTBANK">0xE10D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="王冠" code="0xEA62">
+       <relation carrier="DOCOMO">0xE71A</relation>
+       <relation carrier="SOFTBANK">0xE10E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="チュー" code="0xEA63">
+       <relation carrier="DOCOMO">0xE6F9</relation>
+       <relation carrier="SOFTBANK">0xE111</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ハンマー" code="0xEA64">
+       <relation carrier="DOCOMO">[ハンマー]</relation>
+       <relation carrier="SOFTBANK">0xE116</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="打ち上げ花火" code="0xEA65">
+       <relation carrier="DOCOMO">[花火]</relation>
+       <relation carrier="SOFTBANK">0xE117</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="枯れ葉" code="0xEA66">
+       <relation carrier="DOCOMO">0xE747</relation>
+       <relation carrier="SOFTBANK">0xE119</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="仕事かばん" code="0xEA67">
+       <relation carrier="DOCOMO">0xE682</relation>
+       <relation carrier="SOFTBANK">0xE11E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="噴水" code="0xEA68">
+       <relation carrier="DOCOMO">[噴水]</relation>
+       <relation carrier="SOFTBANK">0xE121</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="キャンプ" code="0xEA69">
+       <relation carrier="DOCOMO">[キャンプ]</relation>
+       <relation carrier="SOFTBANK">0xE122</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="麻雀" code="0xEA6A">
+       <relation carrier="DOCOMO">[麻雀]</relation>
+       <relation carrier="SOFTBANK">0xE12D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ＶＳ（バーサス）" code="0xEA6B">
+       <relation carrier="DOCOMO">[VS]</relation>
+       <relation carrier="SOFTBANK">0xE12E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="トロフィー" code="0xEA6C">
+       <relation carrier="DOCOMO">[トロフィー]</relation>
+       <relation carrier="SOFTBANK">0xE131</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="カメ" code="0xEA6D">
+       <relation carrier="DOCOMO">[カメ]</relation>
+       <relation carrier="SOFTBANK">[カメ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="スペイン国旗" code="0xEA6E">
+       <relation carrier="DOCOMO">[スペイン]</relation>
+       <relation carrier="SOFTBANK">0xE511</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ロシア国旗" code="0xEA6F">
+       <relation carrier="DOCOMO">[ロシア]</relation>
+       <relation carrier="SOFTBANK">0xE512</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="工事中" code="0xEA70">
+       <relation carrier="DOCOMO">[工事中]</relation>
+       <relation carrier="SOFTBANK">0xE137</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="風呂" code="0xEA71">
+       <relation carrier="DOCOMO">0xE6F7</relation>
+       <relation carrier="SOFTBANK">0xE13F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="祝日マーク" code="0xEA72">
+       <relation carrier="DOCOMO">[祝日]</relation>
+       <relation carrier="SOFTBANK">0xE143</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="夕方街並み" code="0xEA73">
+       <relation carrier="DOCOMO">[夕焼け]</relation>
+       <relation carrier="SOFTBANK">0xE44A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="卵割り" code="0xEA74">
+       <relation carrier="DOCOMO">0xE74F</relation>
+       <relation carrier="SOFTBANK">0xE523</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="株価" code="0xEA75">
+       <relation carrier="DOCOMO">[株価]</relation>
+       <relation carrier="SOFTBANK">0xE14A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ポリス" code="0xEA76">
+       <relation carrier="DOCOMO">[警官]</relation>
+       <relation carrier="SOFTBANK">0xE152</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="郵便局" code="0xEA77">
+       <relation carrier="DOCOMO">0xE665</relation>
+       <relation carrier="SOFTBANK">0xE153</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="病院" code="0xEA78">
+       <relation carrier="DOCOMO">0xE666</relation>
+       <relation carrier="SOFTBANK">0xE155</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="学校" code="0xEA79">
+       <relation carrier="DOCOMO">0xE73E</relation>
+       <relation carrier="SOFTBANK">0xE157</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ホテル" code="0xEA7A">
+       <relation carrier="DOCOMO">0xE669</relation>
+       <relation carrier="SOFTBANK">0xE158</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="船" code="0xEA7B">
+       <relation carrier="DOCOMO">0xE661</relation>
+       <relation carrier="SOFTBANK">0xE202</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="18禁" code="0xEA7C">
+       <relation carrier="DOCOMO">[18禁]</relation>
+       <relation carrier="SOFTBANK">0xE207</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="圏内" code="0xEA7D">
+       <relation carrier="DOCOMO">[バリ3]</relation>
+       <relation carrier="SOFTBANK">0xE20B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="COOL!" code="0xEA7E">
+       <relation carrier="DOCOMO">[COOL]</relation>
+       <relation carrier="SOFTBANK">0xE214</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="割マーク" code="0xEA7F">
+       <relation carrier="DOCOMO">[割]</relation>
+       <relation carrier="SOFTBANK">0xE227</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ザ・マーク" code="0xEA80">
+       <relation carrier="DOCOMO">[サービス]</relation>
+       <relation carrier="SOFTBANK">0xE228</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ＩＤマーク" code="0xEA81">
+       <relation carrier="DOCOMO">0xE6D8</relation>
+       <relation carrier="SOFTBANK">0xE229</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="満マーク" code="0xEA82">
+       <relation carrier="DOCOMO">0xE73B</relation>
+       <relation carrier="SOFTBANK">0xE22A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="空マーク" code="0xEA83">
+       <relation carrier="DOCOMO">0xE739</relation>
+       <relation carrier="SOFTBANK">0xE22B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="指定マーク" code="0xEA84">
+       <relation carrier="DOCOMO">[指]</relation>
+       <relation carrier="SOFTBANK">0xE22C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="営業中マーク" code="0xEA85">
+       <relation carrier="DOCOMO">[営]</relation>
+       <relation carrier="SOFTBANK">0xE22D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="上指差し" code="0xEA86">
+       <relation carrier="DOCOMO">↑</relation>
+       <relation carrier="SOFTBANK">0xE22E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="下指差し" code="0xEA87">
+       <relation carrier="DOCOMO">↓</relation>
+       <relation carrier="SOFTBANK">0xE22F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="占い" code="0xEA88">
+       <relation carrier="DOCOMO">[占い]</relation>
+       <relation carrier="SOFTBANK">0xE23E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="マナーモード" code="0xEA89">
+       <relation carrier="DOCOMO">[マナーモード]</relation>
+       <relation carrier="SOFTBANK">0xE250</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="電源OFF" code="0xEA8A">
+       <relation carrier="DOCOMO">[ケータイOFF]</relation>
+       <relation carrier="SOFTBANK">0xE251</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="メモする" code="0xEA8B">
+       <relation carrier="DOCOMO">0xE689</relation>
+       <relation carrier="SOFTBANK">0xE301</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ネクタイ" code="0xEA8C">
+       <relation carrier="DOCOMO">[ネクタイ]</relation>
+       <relation carrier="SOFTBANK">0xE302</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ハイビスカス" code="0xEA8D">
+       <relation carrier="DOCOMO">[ハイビスカス]</relation>
+       <relation carrier="SOFTBANK">0xE303</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="花束" code="0xEA8E">
+       <relation carrier="DOCOMO">[花束]</relation>
+       <relation carrier="SOFTBANK">0xE306</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="サボテン" code="0xEA8F">
+       <relation carrier="DOCOMO">[サボテン]</relation>
+       <relation carrier="SOFTBANK">0xE308</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="お銚子＆杯" code="0xEA90">
+       <relation carrier="DOCOMO">0xE74B</relation>
+       <relation carrier="SOFTBANK">0xE30B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="乾杯" code="0xEA91">
+       <relation carrier="DOCOMO">0xE672</relation>
+       <relation carrier="SOFTBANK">0xE30C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="祝マーク" code="0xEA92">
+       <relation carrier="DOCOMO">[祝]</relation>
+       <relation carrier="SOFTBANK">0xE30D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="風邪薬" code="0xEA93">
+       <relation carrier="DOCOMO">[薬]</relation>
+       <relation carrier="SOFTBANK">0xE30F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="風船" code="0xEA94">
+       <relation carrier="DOCOMO">[風船]</relation>
+       <relation carrier="SOFTBANK">0xE310</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="クラッカー" code="0xEA95">
+       <relation carrier="DOCOMO">[クラッカー]</relation>
+       <relation carrier="SOFTBANK">0xE312</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="eznavigation" code="0xEA96">
+       <relation carrier="DOCOMO">[EZナビ]</relation>
+       <relation carrier="SOFTBANK">[EZナビ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="帽子" code="0xEA97">
+       <relation carrier="DOCOMO">[帽子]</relation>
+       <relation carrier="SOFTBANK">0xE318</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ロングブーツ" code="0xEA98">
+       <relation carrier="DOCOMO">[ブーツ]</relation>
+       <relation carrier="SOFTBANK">0xE31B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ネイル" code="0xEA99">
+       <relation carrier="DOCOMO">[マニュキア]</relation>
+       <relation carrier="SOFTBANK">0xE31D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="美容院" code="0xEA9A">
+       <relation carrier="DOCOMO">[美容院]</relation>
+       <relation carrier="SOFTBANK">0xE31F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="床屋" code="0xEA9B">
+       <relation carrier="DOCOMO">[床屋]</relation>
+       <relation carrier="SOFTBANK">0xE320</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="着物" code="0xEA9C">
+       <relation carrier="DOCOMO">[着物]</relation>
+       <relation carrier="SOFTBANK">0xE321</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ビキニ" code="0xEA9D">
+       <relation carrier="DOCOMO">[ビキニ]</relation>
+       <relation carrier="SOFTBANK">0xE322</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ハート（トランプ）" code="0xEA9E">
+       <relation carrier="DOCOMO">0xE68D</relation>
+       <relation carrier="SOFTBANK">0xE20C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="光るハート" code="0xEA9F">
+       <relation carrier="DOCOMO">0xE68D</relation>
+       <relation carrier="SOFTBANK">0xE327</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="青ハート" code="0xEAA0">
+       <relation carrier="DOCOMO">0xE68D</relation>
+       <relation carrier="SOFTBANK">0xE32A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="緑ハート" code="0xEAA1">
+       <relation carrier="DOCOMO">0xE68D</relation>
+       <relation carrier="SOFTBANK">0xE32B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="黄ハート" code="0xEAA2">
+       <relation carrier="DOCOMO">0xE68D</relation>
+       <relation carrier="SOFTBANK">0xE32C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="紫ハート" code="0xEAA3">
+       <relation carrier="DOCOMO">0xE68D</relation>
+       <relation carrier="SOFTBANK">0xE32D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="きらきら" code="0xEAA4">
+       <relation carrier="DOCOMO">0xE6FA</relation>
+       <relation carrier="SOFTBANK">0xE32E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="スキー" code="0xEAA5">
+       <relation carrier="DOCOMO">0xE657</relation>
+       <relation carrier="SOFTBANK">0xE013</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="○" code="0xEAA6">
+       <relation carrier="DOCOMO">0xE6A0</relation>
+       <relation carrier="SOFTBANK">0xE332</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="日本茶" code="0xEAA7">
+       <relation carrier="DOCOMO">0xE71E</relation>
+       <relation carrier="SOFTBANK">0xE338</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="食パン" code="0xEAA8">
+       <relation carrier="DOCOMO">0xE74D</relation>
+       <relation carrier="SOFTBANK">0xE339</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ソフトクリーム" code="0xEAA9">
+       <relation carrier="DOCOMO">[ソフトクリーム]</relation>
+       <relation carrier="SOFTBANK">0xE33A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ポテト" code="0xEAAA">
+       <relation carrier="DOCOMO">[ポテト]</relation>
+       <relation carrier="SOFTBANK">0xE33B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="だんご" code="0xEAAB">
+       <relation carrier="DOCOMO">[だんご]</relation>
+       <relation carrier="SOFTBANK">0xE33C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="おせんべい" code="0xEAAC">
+       <relation carrier="DOCOMO">[せんべい]</relation>
+       <relation carrier="SOFTBANK">0xE33D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ごはん" code="0xEAAD">
+       <relation carrier="DOCOMO">0xE74C</relation>
+       <relation carrier="SOFTBANK">0xE33E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="スパゲッティ" code="0xEAAE">
+       <relation carrier="DOCOMO">[パスタ]</relation>
+       <relation carrier="SOFTBANK">0xE33F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="カレー" code="0xEAAF">
+       <relation carrier="DOCOMO">[カレー]</relation>
+       <relation carrier="SOFTBANK">0xE341</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="おでん" code="0xEAB0">
+       <relation carrier="DOCOMO">[おでん]</relation>
+       <relation carrier="SOFTBANK">0xE343</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="寿司" code="0xEAB1">
+       <relation carrier="DOCOMO">[すし]</relation>
+       <relation carrier="SOFTBANK">0xE344</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="りんご" code="0xEAB2">
+       <relation carrier="DOCOMO">0xE745</relation>
+       <relation carrier="SOFTBANK">0xE345</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="みかん" code="0xEAB3">
+       <relation carrier="DOCOMO">[みかん]</relation>
+       <relation carrier="SOFTBANK">0xE346</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="トマト" code="0xEAB4">
+       <relation carrier="DOCOMO">[トマト]</relation>
+       <relation carrier="SOFTBANK">0xE349</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="なす" code="0xEAB5">
+       <relation carrier="DOCOMO">[ナス]</relation>
+       <relation carrier="SOFTBANK">0xE34A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="弁当" code="0xEAB6">
+       <relation carrier="DOCOMO">[弁当]</relation>
+       <relation carrier="SOFTBANK">0xE34C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="鍋" code="0xEAB7">
+       <relation carrier="DOCOMO">[鍋]</relation>
+       <relation carrier="SOFTBANK">0xE34D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ふっ" code="0xEAB8">
+       <relation carrier="DOCOMO">0xE72C</relation>
+       <relation carrier="SOFTBANK">0xE402</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="しょぼり" code="0xEAB9">
+       <relation carrier="DOCOMO">0xE6F2</relation>
+       <relation carrier="SOFTBANK">0xE403</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="勝ち誇り" code="0xEABA">
+       <relation carrier="DOCOMO">0xE753</relation>
+       <relation carrier="SOFTBANK">0xE404</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="失敗" code="0xEABB">
+       <relation carrier="DOCOMO">0xE72B</relation>
+       <relation carrier="SOFTBANK">0xE406</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="わからん" code="0xEABC">
+       <relation carrier="DOCOMO">0xE6F3</relation>
+       <relation carrier="SOFTBANK">0xE407</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="眠い" code="0xEABD">
+       <relation carrier="DOCOMO">0xE701</relation>
+       <relation carrier="SOFTBANK">0xE408</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="てれてれ" code="0xEABE">
+       <relation carrier="DOCOMO">0xE721</relation>
+       <relation carrier="SOFTBANK">0xE40A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="青ざめ" code="0xEABF">
+       <relation carrier="DOCOMO">0xE757</relation>
+       <relation carrier="SOFTBANK">0xE40B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="風邪ひき" code="0xEAC0">
+       <relation carrier="DOCOMO">[風邪ひき]</relation>
+       <relation carrier="SOFTBANK">0xE40C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="熱" code="0xEAC1">
+       <relation carrier="DOCOMO">[熱]</relation>
+       <relation carrier="SOFTBANK">0xE40D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="横目" code="0xEAC2">
+       <relation carrier="DOCOMO">0xE725</relation>
+       <relation carrier="SOFTBANK">0xE40E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="びっくり" code="0xEAC3">
+       <relation carrier="DOCOMO">0xE6F4</relation>
+       <relation carrier="SOFTBANK">0xE410</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="あせり" code="0xEAC4">
+       <relation carrier="DOCOMO">0xE723</relation>
+       <relation carrier="SOFTBANK">0xE40F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="楽譜" code="0xEAC5">
+       <relation carrier="DOCOMO">0xE6FF</relation>
+       <relation carrier="SOFTBANK">0xE326</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="にこにこ" code="0xEAC6">
+       <relation carrier="DOCOMO">0xE752</relation>
+       <relation carrier="SOFTBANK">0xE056</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="チュー２" code="0xEAC7">
+       <relation carrier="DOCOMO">(&gt;3&lt;)</relation>
+       <relation carrier="SOFTBANK">0xE417</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="チュッ" code="0xEAC8">
+       <relation carrier="DOCOMO">(´3｀)</relation>
+       <relation carrier="SOFTBANK">0xE418</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="鼻" code="0xEAC9">
+       <relation carrier="DOCOMO">[鼻]</relation>
+       <relation carrier="SOFTBANK">0xE41A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="口" code="0xEACA">
+       <relation carrier="DOCOMO">0xE6F9</relation>
+       <relation carrier="SOFTBANK">0xE41C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ゴメン／お願い" code="0xEACB">
+       <relation carrier="DOCOMO">(&gt;人&lt;)</relation>
+       <relation carrier="SOFTBANK">0xE41D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="拍手" code="0xEACC">
+       <relation carrier="DOCOMO">[拍手]</relation>
+       <relation carrier="SOFTBANK">0xE41F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ＯＫ！" code="0xEACD">
+       <relation carrier="DOCOMO">0xE70B</relation>
+       <relation carrier="SOFTBANK">0xE420</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ブーイング" code="0xEACE">
+       <relation carrier="DOCOMO">0xE700</relation>
+       <relation carrier="SOFTBANK">0xE421</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="バイバイ" code="0xEACF">
+       <relation carrier="DOCOMO">0xE695</relation>
+       <relation carrier="SOFTBANK">0xE41E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ＮＧ" code="0xEAD0">
+       <relation carrier="DOCOMO">0xE72F</relation>
+       <relation carrier="SOFTBANK">0xE423</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ＯＫ！２" code="0xEAD1">
+       <relation carrier="DOCOMO">0xE70B</relation>
+       <relation carrier="SOFTBANK">0xE424</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="平謝り" code="0xEAD2">
+       <relation carrier="DOCOMO">m(_ _)m</relation>
+       <relation carrier="SOFTBANK">0xE426</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="カップル" code="0xEAD3">
+       <relation carrier="DOCOMO">0xE6ED</relation>
+       <relation carrier="SOFTBANK">0xE425</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="バニー" code="0xEAD4">
+       <relation carrier="DOCOMO">[バニー]</relation>
+       <relation carrier="SOFTBANK">0xE429</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="トランペット" code="0xEAD5">
+       <relation carrier="DOCOMO">[トランペット]</relation>
+       <relation carrier="SOFTBANK">0xE042</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ビリヤード" code="0xEAD6">
+       <relation carrier="DOCOMO">[ビリヤード]</relation>
+       <relation carrier="SOFTBANK">0xE42C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="水泳" code="0xEAD7">
+       <relation carrier="DOCOMO">[水泳]</relation>
+       <relation carrier="SOFTBANK">0xE42D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="消防車" code="0xEAD8">
+       <relation carrier="DOCOMO">[消防車]</relation>
+       <relation carrier="SOFTBANK">0xE430</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="救急車" code="0xEAD9">
+       <relation carrier="DOCOMO">[救急車]</relation>
+       <relation carrier="SOFTBANK">0xE431</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="パトカー" code="0xEADA">
+       <relation carrier="DOCOMO">[パトカー]</relation>
+       <relation carrier="SOFTBANK">0xE432</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ジェットコースター" code="0xEADB">
+       <relation carrier="DOCOMO">[ジェットコースター]</relation>
+       <relation carrier="SOFTBANK">0xE433</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="門松" code="0xEADC">
+       <relation carrier="DOCOMO">[門松]</relation>
+       <relation carrier="SOFTBANK">0xE436</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="雛祭り" code="0xEADD">
+       <relation carrier="DOCOMO">[ひな祭り]</relation>
+       <relation carrier="SOFTBANK">0xE438</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="卒業式" code="0xEADE">
+       <relation carrier="DOCOMO">[卒業式]</relation>
+       <relation carrier="SOFTBANK">0xE439</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="入学式" code="0xEADF">
+       <relation carrier="DOCOMO">[ランドセル]</relation>
+       <relation carrier="SOFTBANK">0xE43A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="こいのぼり" code="0xEAE0">
+       <relation carrier="DOCOMO">[こいのぼり]</relation>
+       <relation carrier="SOFTBANK">0xE43B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="傘" code="0xEAE1">
+       <relation carrier="DOCOMO">0xE645</relation>
+       <relation carrier="SOFTBANK">0xE43C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="花嫁" code="0xEAE2">
+       <relation carrier="DOCOMO">[花嫁]</relation>
+       <relation carrier="SOFTBANK">[花嫁]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="かき氷" code="0xEAE3">
+       <relation carrier="DOCOMO">[カキ氷]</relation>
+       <relation carrier="SOFTBANK">0xE43F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="線香花火" code="0xEAE4">
+       <relation carrier="DOCOMO">[線香花火]</relation>
+       <relation carrier="SOFTBANK">0xE440</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="巻き貝" code="0xEAE5">
+       <relation carrier="DOCOMO">[巻貝]</relation>
+       <relation carrier="SOFTBANK">0xE441</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="風鈴" code="0xEAE6">
+       <relation carrier="DOCOMO">[風鈴]</relation>
+       <relation carrier="SOFTBANK">0xE442</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ハロウィン" code="0xEAE7">
+       <relation carrier="DOCOMO">[ハロウィン]</relation>
+       <relation carrier="SOFTBANK">0xE445</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="お月見" code="0xEAE8">
+       <relation carrier="DOCOMO">[お月見]</relation>
+       <relation carrier="SOFTBANK">0xE446</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="サンタ" code="0xEAE9">
+       <relation carrier="DOCOMO">[サンタ]</relation>
+       <relation carrier="SOFTBANK">0xE448</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="夜／流れ星" code="0xEAEA">
+       <relation carrier="DOCOMO">0xE6B3</relation>
+       <relation carrier="SOFTBANK">0xE44B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="虹" code="0xEAEB">
+       <relation carrier="DOCOMO">[虹]</relation>
+       <relation carrier="SOFTBANK">0xE44C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ホテル２" code="0xEAEC">
+       <relation carrier="DOCOMO">0xE669</relation>
+       <relation carrier="SOFTBANK">0xE158</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="日の出" code="0xEAED">
+       <relation carrier="DOCOMO">0xE63E</relation>
+       <relation carrier="SOFTBANK">0xE449</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="シルクハット" code="0xEAEE">
+       <relation carrier="DOCOMO">0xE67C</relation>
+       <relation carrier="SOFTBANK">0xE503</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="デパート" code="0xEAEF">
+       <relation carrier="DOCOMO">[デパート]</relation>
+       <relation carrier="SOFTBANK">0xE504</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="城（日本）" code="0xEAF0">
+       <relation carrier="DOCOMO">[城]</relation>
+       <relation carrier="SOFTBANK">0xE505</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="城（ヨーロッパ）" code="0xEAF1">
+       <relation carrier="DOCOMO">[城]</relation>
+       <relation carrier="SOFTBANK">0xE506</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="工場２" code="0xEAF2">
+       <relation carrier="DOCOMO">[工場]</relation>
+       <relation carrier="SOFTBANK">0xE508</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="フランス国旗" code="0xEAF3">
+       <relation carrier="DOCOMO">[フランス]</relation>
+       <relation carrier="SOFTBANK">0xE50D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="オープンウェーブ" code="0xEAF4">
+       <relation carrier="DOCOMO">[オープンウェーブ]</relation>
+       <relation carrier="SOFTBANK">[オープンウェーブ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ロック確認" code="0xEAF5">
+       <relation carrier="DOCOMO">[カギ]</relation>
+       <relation carrier="SOFTBANK">0xE144</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="大文字" code="0xEAF6">
+       <relation carrier="DOCOMO">[ABCD]</relation>
+       <relation carrier="SOFTBANK">[ABCD]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="小文字" code="0xEAF7">
+       <relation carrier="DOCOMO">[abcd]</relation>
+       <relation carrier="SOFTBANK">[abcd]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="数字" code="0xEAF8">
+       <relation carrier="DOCOMO">1234</relation>
+       <relation carrier="SOFTBANK">1234</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="記号" code="0xEAF9">
+       <relation carrier="DOCOMO">[記号]</relation>
+       <relation carrier="SOFTBANK">[記号]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="アクセプト" code="0xEAFA">
+       <relation carrier="DOCOMO">[可]</relation>
+       <relation carrier="SOFTBANK">[可]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="チェックボックス" code="0xEAFB">
+       <relation carrier="DOCOMO">[チェックマーク]</relation>
+       <relation carrier="SOFTBANK">[チェックマーク]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="エディット" code="0xEAFC">
+       <relation carrier="DOCOMO">0xE6AE</relation>
+       <relation carrier="SOFTBANK">[ペン]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ラジオボタン" code="0xEAFD">
+       <relation carrier="DOCOMO">[ラジオボタン]</relation>
+       <relation carrier="SOFTBANK">[ラジオボタン]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="見る" code="0xEAFE">
+       <relation carrier="DOCOMO">0xE6DC</relation>
+       <relation carrier="SOFTBANK">0xE114</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="戻る" code="0xEAFF">
+       <relation carrier="DOCOMO">[←BACK]</relation>
+       <relation carrier="SOFTBANK">0xE235</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="お気に入り" code="0xEB00">
+       <relation carrier="DOCOMO">[ブックマーク]</relation>
+       <relation carrier="SOFTBANK">[ブックマーク]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="終了" code="0xEB01">
+       <relation carrier="DOCOMO">0xE6CE</relation>
+       <relation carrier="SOFTBANK">0xE104</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ホーム" code="0xEB02">
+       <relation carrier="DOCOMO">0xE663</relation>
+       <relation carrier="SOFTBANK">0xE036</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="受信箱１" code="0xEB03">
+       <relation carrier="DOCOMO">0xE665</relation>
+       <relation carrier="SOFTBANK">0xE101</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="マーク" code="0xEB04">
+       <relation carrier="DOCOMO">0xE689</relation>
+       <relation carrier="SOFTBANK">0xE301</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="個人" code="0xEB05">
+       <relation carrier="DOCOMO">0xE6D9</relation>
+       <relation carrier="SOFTBANK">0xE144</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="再読み込み" code="0xEB06">
+       <relation carrier="DOCOMO">0xE735</relation>
+       <relation carrier="SOFTBANK">↑↓</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ドイツ国旗" code="0xEB07">
+       <relation carrier="DOCOMO">[ドイツ]</relation>
+       <relation carrier="SOFTBANK">0xE50E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="イタリア国旗" code="0xEB08">
+       <relation carrier="DOCOMO">[イタリア]</relation>
+       <relation carrier="SOFTBANK">0xE50F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="イギリス国旗" code="0xEB09">
+       <relation carrier="DOCOMO">[イギリス]</relation>
+       <relation carrier="SOFTBANK">0xE510</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="中国国旗" code="0xEB0A">
+       <relation carrier="DOCOMO">[中国]</relation>
+       <relation carrier="SOFTBANK">0xE513</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="韓国国旗" code="0xEB0B">
+       <relation carrier="DOCOMO">[韓国]</relation>
+       <relation carrier="SOFTBANK">0xE514</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="白人" code="0xEB0C">
+       <relation carrier="DOCOMO">[白人]</relation>
+       <relation carrier="SOFTBANK">0xE515</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="中国人" code="0xEB0D">
+       <relation carrier="DOCOMO">[中国人]</relation>
+       <relation carrier="SOFTBANK">0xE516</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="インド人" code="0xEB0E">
+       <relation carrier="DOCOMO">[インド人]</relation>
+       <relation carrier="SOFTBANK">0xE517</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="おじいさん" code="0xEB0F">
+       <relation carrier="DOCOMO">[おじいさん]</relation>
+       <relation carrier="SOFTBANK">0xE518</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="おばあさん" code="0xEB10">
+       <relation carrier="DOCOMO">[おばあさん]</relation>
+       <relation carrier="SOFTBANK">0xE519</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="赤ちゃん" code="0xEB11">
+       <relation carrier="DOCOMO">[赤ちゃん]</relation>
+       <relation carrier="SOFTBANK">0xE51A</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="工事現場の人" code="0xEB12">
+       <relation carrier="DOCOMO">[工事現場の人]</relation>
+       <relation carrier="SOFTBANK">0xE51B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="お姫様" code="0xEB13">
+       <relation carrier="DOCOMO">[お姫様]</relation>
+       <relation carrier="SOFTBANK">0xE51C</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="イルカ" code="0xEB14">
+       <relation carrier="DOCOMO">[イルカ]</relation>
+       <relation carrier="SOFTBANK">0xE520</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ダンス" code="0xEB15">
+       <relation carrier="DOCOMO">[ダンス]</relation>
+       <relation carrier="SOFTBANK">0xE51F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="熱帯魚" code="0xEB16">
+       <relation carrier="DOCOMO">0xE751</relation>
+       <relation carrier="SOFTBANK">0xE522</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="げじげじ" code="0xEB17">
+       <relation carrier="DOCOMO">[ゲジゲジ]</relation>
+       <relation carrier="SOFTBANK">0xE525</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="象" code="0xEB18">
+       <relation carrier="DOCOMO">[ゾウ]</relation>
+       <relation carrier="SOFTBANK">0xE526</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="コアラ" code="0xEB19">
+       <relation carrier="DOCOMO">[コアラ]</relation>
+       <relation carrier="SOFTBANK">0xE527</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ホルスタイン" code="0xEB1A">
+       <relation carrier="DOCOMO">[牛]</relation>
+       <relation carrier="SOFTBANK">0xE52B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ヘビ" code="0xEB1B">
+       <relation carrier="DOCOMO">[ヘビ]</relation>
+       <relation carrier="SOFTBANK">0xE52D</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="鶏" code="0xEB1C">
+       <relation carrier="DOCOMO">[ニワトリ]</relation>
+       <relation carrier="SOFTBANK">0xE52E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="うりぼう" code="0xEB1D">
+       <relation carrier="DOCOMO">[イノシシ]</relation>
+       <relation carrier="SOFTBANK">0xE52F</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ふたこぶらくだ" code="0xEB1E">
+       <relation carrier="DOCOMO">[ラクダ]</relation>
+       <relation carrier="SOFTBANK">0xE530</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="Ａ型" code="0xEB1F">
+       <relation carrier="DOCOMO">[A]</relation>
+       <relation carrier="SOFTBANK">0xE532</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="Ｂ型" code="0xEB20">
+       <relation carrier="DOCOMO">[B]</relation>
+       <relation carrier="SOFTBANK">0xE533</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="Ｏ型" code="0xEB21">
+       <relation carrier="DOCOMO">[O]</relation>
+       <relation carrier="SOFTBANK">0xE535</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ＡＢ型" code="0xEB22">
+       <relation carrier="DOCOMO">[AB]</relation>
+       <relation carrier="SOFTBANK">0xE534</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="足跡" code="0xEB23">
+       <relation carrier="DOCOMO">0xE698</relation>
+       <relation carrier="SOFTBANK">0xE536</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="スニーカー" code="0xEB24">
+       <relation carrier="DOCOMO">0xE699</relation>
+       <relation carrier="SOFTBANK">0xE007</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="旗" code="0xEB25">
+       <relation carrier="DOCOMO">0xE6DE</relation>
+       <relation carrier="SOFTBANK">[旗]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="上向きカーブ矢印" code="0xEB26">
+       <relation carrier="DOCOMO">0xE6F5</relation>
+       <relation carrier="SOFTBANK">0xE236</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="下向きカーブ矢印" code="0xEB27">
+       <relation carrier="DOCOMO">0xE700</relation>
+       <relation carrier="SOFTBANK">0xE239</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="「！？」" code="0xEB28">
+       <relation carrier="DOCOMO">0xE703</relation>
+       <relation carrier="SOFTBANK">[！？]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="「！！」" code="0xEB29">
+       <relation carrier="DOCOMO">0xE704</relation>
+       <relation carrier="SOFTBANK">[！！]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="くるり" code="0xEB2A">
+       <relation carrier="DOCOMO">0xE70A</relation>
+       <relation carrier="SOFTBANK">～</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="メロン" code="0xEB2B">
+       <relation carrier="DOCOMO">[メロン]</relation>
+       <relation carrier="SOFTBANK">[メロン]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="パイナップル" code="0xEB2C">
+       <relation carrier="DOCOMO">[パイナップル]</relation>
+       <relation carrier="SOFTBANK">[パイナップル]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ぶどう" code="0xEB2D">
+       <relation carrier="DOCOMO">[ブドウ]</relation>
+       <relation carrier="SOFTBANK">[ブドウ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="バナナ" code="0xEB2E">
+       <relation carrier="DOCOMO">0xE744</relation>
+       <relation carrier="SOFTBANK">[バナナ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="とうもろこし" code="0xEB2F">
+       <relation carrier="DOCOMO">[とうもろこし]</relation>
+       <relation carrier="SOFTBANK">[とうもろこし]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="きのこ" code="0xEB30">
+       <relation carrier="DOCOMO">[キノコ]</relation>
+       <relation carrier="SOFTBANK">[キノコ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="栗" code="0xEB31">
+       <relation carrier="DOCOMO">[栗]</relation>
+       <relation carrier="SOFTBANK">[栗]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="桃" code="0xEB32">
+       <relation carrier="DOCOMO">[モモ]</relation>
+       <relation carrier="SOFTBANK">[モモ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="やきいも" code="0xEB33">
+       <relation carrier="DOCOMO">[やきいも]</relation>
+       <relation carrier="SOFTBANK">[やきいも]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ピザ" code="0xEB34">
+       <relation carrier="DOCOMO">[ピザ]</relation>
+       <relation carrier="SOFTBANK">[ピザ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ターキー" code="0xEB35">
+       <relation carrier="DOCOMO">[チキン]</relation>
+       <relation carrier="SOFTBANK">[チキン]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="七夕笹飾り" code="0xEB36">
+       <relation carrier="DOCOMO">[七夕]</relation>
+       <relation carrier="SOFTBANK">[七夕]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="トロピカルドリンク" code="0xEB37">
+       <relation carrier="DOCOMO">0xE671</relation>
+       <relation carrier="SOFTBANK">0xE044</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="辰" code="0xEB38">
+       <relation carrier="DOCOMO">[辰]</relation>
+       <relation carrier="SOFTBANK">[辰]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ピアノ" code="0xEB39">
+       <relation carrier="DOCOMO">[ピアノ]</relation>
+       <relation carrier="SOFTBANK">[ピアノ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="サーフィン" code="0xEB3A">
+       <relation carrier="DOCOMO">0xE712</relation>
+       <relation carrier="SOFTBANK">0xE017</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="釣り" code="0xEB3B">
+       <relation carrier="DOCOMO">0xE751</relation>
+       <relation carrier="SOFTBANK">0xE019</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ボーリング" code="0xEB3C">
+       <relation carrier="DOCOMO">[ボーリング]</relation>
+       <relation carrier="SOFTBANK">[ボーリング]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="なまはげ" code="0xEB3D">
+       <relation carrier="DOCOMO">[なまはげ]</relation>
+       <relation carrier="SOFTBANK">[なまはげ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="天狗" code="0xEB3E">
+       <relation carrier="DOCOMO">[天狗]</relation>
+       <relation carrier="SOFTBANK">[天狗]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="パンダ" code="0xEB3F">
+       <relation carrier="DOCOMO">[パンダ]</relation>
+       <relation carrier="SOFTBANK">[パンダ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="あかんべー" code="0xEB40">
+       <relation carrier="DOCOMO">0xE728</relation>
+       <relation carrier="SOFTBANK">0xE409</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ぶたの鼻" code="0xEB41">
+       <relation carrier="DOCOMO">0xE755</relation>
+       <relation carrier="SOFTBANK">0xE10B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="花２" code="0xEB42">
+       <relation carrier="DOCOMO">[花]</relation>
+       <relation carrier="SOFTBANK">0xE305</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="アイスクリーム" code="0xEB43">
+       <relation carrier="DOCOMO">[アイスクリーム]</relation>
+       <relation carrier="SOFTBANK">[アイスクリーム]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ドーナツ" code="0xEB44">
+       <relation carrier="DOCOMO">[ドーナツ]</relation>
+       <relation carrier="SOFTBANK">[ドーナツ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="クッキー" code="0xEB45">
+       <relation carrier="DOCOMO">[クッキー]</relation>
+       <relation carrier="SOFTBANK">[クッキー]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="チョコ" code="0xEB46">
+       <relation carrier="DOCOMO">[チョコ]</relation>
+       <relation carrier="SOFTBANK">[チョコ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="キャンディ（つつみ）" code="0xEB47">
+       <relation carrier="DOCOMO">[キャンディ]</relation>
+       <relation carrier="SOFTBANK">[キャンディ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="キャンディ（ぺろぺろ）" code="0xEB48">
+       <relation carrier="DOCOMO">[キャンディ]</relation>
+       <relation carrier="SOFTBANK">[キャンディ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="見ざる" code="0xEB49">
+       <relation carrier="DOCOMO">(/_＼)</relation>
+       <relation carrier="SOFTBANK">(/_＼)</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="言わざる" code="0xEB4A">
+       <relation carrier="DOCOMO">(・×・)</relation>
+       <relation carrier="SOFTBANK">(・×・)</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="聞かざる" code="0xEB4B">
+       <relation carrier="DOCOMO">|(・×・)|</relation>
+       <relation carrier="SOFTBANK">|(・×・)|</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="火山" code="0xEB4C">
+       <relation carrier="DOCOMO">[火山]</relation>
+       <relation carrier="SOFTBANK">[火山]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="リボンがけのハート" code="0xEB4D">
+       <relation carrier="DOCOMO">0xE68D</relation>
+       <relation carrier="SOFTBANK">0xE022</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="英語「ＡＢＣ」" code="0xEB4E">
+       <relation carrier="DOCOMO">[ABC]</relation>
+       <relation carrier="SOFTBANK">[ABC]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="プリン" code="0xEB4F">
+       <relation carrier="DOCOMO">[プリン]</relation>
+       <relation carrier="SOFTBANK">[プリン]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ミツバチ" code="0xEB50">
+       <relation carrier="DOCOMO">[ミツバチ]</relation>
+       <relation carrier="SOFTBANK">[ミツバチ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="テントウムシ" code="0xEB51">
+       <relation carrier="DOCOMO">[てんとう虫]</relation>
+       <relation carrier="SOFTBANK">[てんとう虫]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="蜂蜜ポット" code="0xEB52">
+       <relation carrier="DOCOMO">[ハチミツ]</relation>
+       <relation carrier="SOFTBANK">[ハチミツ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="青りんご" code="0xEB53">
+       <relation carrier="DOCOMO">0xE745</relation>
+       <relation carrier="SOFTBANK">0xE345</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="羽のはえたお札" code="0xEB54">
+       <relation carrier="DOCOMO">[飛んでいくお金]</relation>
+       <relation carrier="SOFTBANK">[飛んでいくお金]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="目がまわる時の記号" code="0xEB55">
+       <relation carrier="DOCOMO">[クラクラ]</relation>
+       <relation carrier="SOFTBANK">0xE407</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ぷー（かわいく怒）" code="0xEB56">
+       <relation carrier="DOCOMO">0xE724</relation>
+       <relation carrier="SOFTBANK">0xE416</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ぶー（かわいく怒）（ネコ）" code="0xEB57">
+       <relation carrier="DOCOMO">0xE724</relation>
+       <relation carrier="SOFTBANK">0xE416</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="天の川" code="0xEB58">
+       <relation carrier="DOCOMO">0xE6B3</relation>
+       <relation carrier="SOFTBANK">0xE44B</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="チュー（ネコ）" code="0xEB59">
+       <relation carrier="DOCOMO">(´3｀)</relation>
+       <relation carrier="SOFTBANK">0xE418</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="にこ（ネコ）" code="0xEB5A">
+       <relation carrier="DOCOMO">0xE6F0</relation>
+       <relation carrier="SOFTBANK">0xE057</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="メールする" code="0xEB5B">
+       <relation carrier="DOCOMO">0xE6CF</relation>
+       <relation carrier="SOFTBANK">0xE103</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="泣き笑い（ネコ）" code="0xEB5C">
+       <relation carrier="DOCOMO">0xE72A</relation>
+       <relation carrier="SOFTBANK">0xE412</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="泣き笑い" code="0xEB5D">
+       <relation carrier="DOCOMO">0xE72A</relation>
+       <relation carrier="SOFTBANK">0xE412</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="目がハート（ネコ）" code="0xEB5E">
+       <relation carrier="DOCOMO">0xE726</relation>
+       <relation carrier="SOFTBANK">0xE106</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ほえー（ネコ）" code="0xEB5F">
+       <relation carrier="DOCOMO">0xE6F3</relation>
+       <relation carrier="SOFTBANK">0xE403</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ほえー" code="0xEB60">
+       <relation carrier="DOCOMO">0xE6F3</relation>
+       <relation carrier="SOFTBANK">0xE403</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="涙ぽろり（ネコ）" code="0xEB61">
+       <relation carrier="DOCOMO">0xE72E</relation>
+       <relation carrier="SOFTBANK">0xE411</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="涙ぽろり" code="0xEB62">
+       <relation carrier="DOCOMO">0xE72E</relation>
+       <relation carrier="SOFTBANK">0xE411</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="きりり（ネコ）" code="0xEB63">
+       <relation carrier="DOCOMO">0xE753</relation>
+       <relation carrier="SOFTBANK">0xE404</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ドレス" code="0xEB64">
+       <relation carrier="DOCOMO">[ドレス]</relation>
+       <relation carrier="SOFTBANK">0xE319</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="モヤイ像" code="0xEB65">
+       <relation carrier="DOCOMO">[モアイ]</relation>
+       <relation carrier="SOFTBANK">[モアイ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="駅" code="0xEB66">
+       <relation carrier="DOCOMO">[駅]</relation>
+       <relation carrier="SOFTBANK">0xE039</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="花札" code="0xEB67">
+       <relation carrier="DOCOMO">[花札]</relation>
+       <relation carrier="SOFTBANK">[花札]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ジョーカー" code="0xEB68">
+       <relation carrier="DOCOMO">[ジョーカー]</relation>
+       <relation carrier="SOFTBANK">[ジョーカー]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="エビフライ" code="0xEB69">
+       <relation carrier="DOCOMO">[エビフライ]</relation>
+       <relation carrier="SOFTBANK">[エビフライ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ｅメールアイコン" code="0xEB6A">
+       <relation carrier="DOCOMO">0xE6D3</relation>
+       <relation carrier="SOFTBANK">0xE103</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="歩く人" code="0xEB6B">
+       <relation carrier="DOCOMO">0xE733</relation>
+       <relation carrier="SOFTBANK">0xE201</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="パトカーのランプ" code="0xEB6C">
+       <relation carrier="DOCOMO">[パトカー]</relation>
+       <relation carrier="SOFTBANK">0xE432</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ezmovie" code="0xEB6D">
+       <relation carrier="DOCOMO">[EZムービー]</relation>
+       <relation carrier="SOFTBANK">[EZムービー]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ドキドキしているハート" code="0xEB6E">
+       <relation carrier="DOCOMO">0xE6ED</relation>
+       <relation carrier="SOFTBANK">0xE327</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="正面向きのひよこ" code="0xEB6F">
+       <relation carrier="DOCOMO">0xE74F</relation>
+       <relation carrier="SOFTBANK">0xE523</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ジーンズ" code="0xEB70">
+       <relation carrier="DOCOMO">0xE711</relation>
+       <relation carrier="SOFTBANK">[ジーンズ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ハートつきメール" code="0xEB71">
+       <relation carrier="DOCOMO">0xE717</relation>
+       <relation carrier="SOFTBANK">0xE103</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="循環矢印" code="0xEB72">
+       <relation carrier="DOCOMO">0xE735</relation>
+       <relation carrier="SOFTBANK">↑↓</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="左右両方向矢印" code="0xEB73">
+       <relation carrier="DOCOMO">0xE73C</relation>
+       <relation carrier="SOFTBANK">⇔</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="上下両方向矢印" code="0xEB74">
+       <relation carrier="DOCOMO">0xE73D</relation>
+       <relation carrier="SOFTBANK">↑↓</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="荒波" code="0xEB75">
+       <relation carrier="DOCOMO">0xE73F</relation>
+       <relation carrier="SOFTBANK">0xE43E</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="双葉" code="0xEB76">
+       <relation carrier="DOCOMO">0xE746</relation>
+       <relation carrier="SOFTBANK">0xE110</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="かたつむり" code="0xEB77">
+       <relation carrier="DOCOMO">0xE74E</relation>
+       <relation carrier="SOFTBANK">[カタツムリ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="うっしっし（ネコ）" code="0xEB78">
+       <relation carrier="DOCOMO">0xE753</relation>
+       <relation carrier="SOFTBANK">0xE404</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="うっしっし" code="0xEB79">
+       <relation carrier="DOCOMO">0xE753</relation>
+       <relation carrier="SOFTBANK">0xE405</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="Cメールアイコン" code="0xEB7A">
+       <relation carrier="DOCOMO">[Cメール]</relation>
+       <relation carrier="SOFTBANK">[Cメール]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ハーブ" code="0xEB7B">
+       <relation carrier="DOCOMO">0xE741</relation>
+       <relation carrier="SOFTBANK">0xE110</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="グー" code="0xEB7C">
+       <relation carrier="DOCOMO">0xE693</relation>
+       <relation carrier="SOFTBANK">0xE010</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="＃" code="0xEB7D">
+       <relation carrier="DOCOMO">0xE6E0</relation>
+       <relation carrier="SOFTBANK">0xE210</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="キャラクター（挙手）" code="0xEB7E">
+       <relation carrier="DOCOMO">(^-^)／</relation>
+       <relation carrier="SOFTBANK">0xE012</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="キャラクター（万歳）" code="0xEB7F">
+       <relation carrier="DOCOMO">＼(^o^)／</relation>
+       <relation carrier="SOFTBANK">0xE427</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="キャラクター（しょんぼり）" code="0xEB80">
+       <relation carrier="DOCOMO">0xE6F3</relation>
+       <relation carrier="SOFTBANK">0xE403</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="キャラクター（かわいく怒る）" code="0xEB81">
+       <relation carrier="DOCOMO">0xE724</relation>
+       <relation carrier="SOFTBANK">0xE416</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="Ｊａｖａ（ＴＭ）" code="0xEB82">
+       <relation carrier="DOCOMO">[Java]</relation>
+       <relation carrier="SOFTBANK">[Java]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ＢＲＥＷ（Ｒ）" code="0xEB83">
+       <relation carrier="DOCOMO">[BREW]</relation>
+       <relation carrier="SOFTBANK">[BREW]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ＥＺ着うた" code="0xEB84">
+       <relation carrier="DOCOMO">[EZ着うた]</relation>
+       <relation carrier="SOFTBANK">[EZ着うた]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ＥＺナビ" code="0xEB85">
+       <relation carrier="DOCOMO">[EZナビ]</relation>
+       <relation carrier="SOFTBANK">[EZナビ]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="ＷＩＮ" code="0xEB86">
+       <relation carrier="DOCOMO">[WIN]</relation>
+       <relation carrier="SOFTBANK">[WIN]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+   <emoji name="プレミアム" code="0xEB87">
+       <relation carrier="DOCOMO">[WIN]</relation>
+       <relation carrier="SOFTBANK">[WIN]</relation>
+       <relation carrier="OTHER">〓</relation>
+   </emoji>
+</emojipool>
