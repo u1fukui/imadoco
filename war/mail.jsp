@@ -19,13 +19,11 @@
 	<div>この地図のURLをお友達に送って、位置情報を共有しよう<m:emoji name="わーい（嬉しい顔）" /></div>
 	<br>
 	<div style="text-align:center;">
-		<a href="
-			<c:url value="mailto:">
+		<a href="<c:url value="mailto:">
 				<c:param name="subject" value="[imadoco]地図を作ったよー" />
 				<c:param name="body" value="待ち合わせ用の地図を作成したよ！以下のリンクから自分の居場所を知らせてね。
 ${link_url}" />
-			</c:url>
-		">この地図をお友達に教える<m:emoji name="メール" /></a>
+			</c:url>">この地図をお友達に教える<m:emoji name="メール" /></a>
 	</div>
 </div>
 </body>
