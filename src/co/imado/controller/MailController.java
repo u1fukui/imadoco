@@ -23,13 +23,13 @@ public class MailController extends Controller {
 
 
     Logger logger = Logger.getLogger(this.getClass().getName());
-    
+
     @Override
     public Navigation run() throws Exception {
         // 位置情報保存
         Double lat = ImadocoUtil.toDouble(param("x-lat"));
         Double lon = ImadocoUtil.toDouble(param("x-lon"));
-        
+
         // GPS結果から
         Mobylet mobylet = MobyletFactory.getInstance();
         if (lat == 0d || lon == 0d) {
@@ -43,9 +43,9 @@ public class MailController extends Controller {
             lon = gps.getLon();
             logger.info("2: lat=" + lat + ", lon=" + lon);
         }
-        
+
         logger.info("lat=" + lat + ", lon=" + lon);
-        
+
         Carrier carrier = mobylet.getCarrier();
         if (carrier != null && carrier == Carrier.DOCOMO) {
             String value = param("guid");
@@ -53,7 +53,7 @@ public class MailController extends Controller {
                 return redirect("mail?guid=on&x-lat=" + lat + "&x-lon=" + lon);
             }
         }
-        
+
         // ユーザID取得
         String userId = mobylet.getGuid();
         if (userId == null) {
@@ -64,8 +64,8 @@ public class MailController extends Controller {
             }
         }
         logger.info("userId=" + userId);
-        
-        
+
+
         // ユーザ情報保存
         String groupId = makeGroupId();
         // グループIDが被ってないかの判定が微妙
@@ -73,12 +73,12 @@ public class MailController extends Controller {
         User user = new User(userId, lat, lon);
         user.getGroupRef().setModel(group);
         Datastore.put(group, user);
-        
+
         // 画像URL生成
         List<User> userList = new ArrayList<User>();
         userList.add(user);
         DeviceDisplay display = mobylet.getDisplay();
-        
+
         Integer w;
         Integer h;
         if (display == null) {
@@ -90,18 +90,18 @@ public class MailController extends Controller {
         }
         String imageSrc = ImadocoUtil.makeMapImageSrc(userList, w, h);
         requestScope("image_src", imageSrc);
-        
+
         logger.info(imageSrc);
-        
+
         // メールURL生成
         String linkUrl = makeLinkUrl(groupId);
         requestScope("link_url", linkUrl);
-        
+
         logger.info(linkUrl);
-        
+
         return forward("mail.jsp");
     }
-    
+
     private String makeGroupId() {
         String guid;
 
@@ -126,7 +126,7 @@ public class MailController extends Controller {
 
         return guid;
     }
-    
+
     /**
      * ランダムな文字列を作成する。
      * @param size 文字列のサイズ
@@ -148,8 +148,11 @@ public class MailController extends Controller {
         for ( char c = '0'; c <= '9'; c++ ) seed[i++] = c;
         for ( char c = 'A'; c <= 'Z'; c++ ) seed[i++] = c;
     }
-    
+
+    public static final String HOSTNAME = "http://www.imado.co";
+    //public static final String HOSTNAME = "http://kyuuki-imadoco.appspot.com";
+
     private String makeLinkUrl(String gid) {
-        return "http://imadocox.appspot.com/map/" + gid + "?guid=on";
+        return HOSTNAME + "/map/" + gid + "?guid=on";
     }
 }
